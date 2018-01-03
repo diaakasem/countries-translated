@@ -4,6 +4,8 @@
   "description": "Countries Objects with names translated into Arabic and Other Languages",
   "main": "index.js",
   "scripts": {
+      "prepublish": "npm-auto-version",
+      "postpublish": "git push origin --tags",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +17,8 @@
   "dependencies": {
     "google-translate-api": "^2.3.0",
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "npm-auto-version": "^1.0.0"
   }
 }

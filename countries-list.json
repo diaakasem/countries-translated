@@ -12,6 +12,7 @@
     "emoji": "🇦🇩",
     "emojiU": "U+1F1E6 U+1F1E9",
     "translations": {
+      "en": "Andorra",
       "ar": "أندورا"
     }
   },
@@ -28,6 +29,7 @@
     "emoji": "🇦🇪",
     "emojiU": "U+1F1E6 U+1F1EA",
     "translations": {
+      "en": "United Arab Emirates",
       "ar": "الإمارات العربية المتحدة"
     }
   },
@@ -46,6 +48,7 @@
     "emoji": "🇦🇫",
     "emojiU": "U+1F1E6 U+1F1EB",
     "translations": {
+      "en": "Afghanistan",
       "ar": "أفغانستان"
     }
   },
@@ -62,6 +65,7 @@
     "emoji": "🇦🇬",
     "emojiU": "U+1F1E6 U+1F1EC",
     "translations": {
+      "en": "Antigua and Barbuda",
       "ar": "أنتيغوا وبربودا"
     }
   },
@@ -78,6 +82,7 @@
     "emoji": "🇦🇮",
     "emojiU": "U+1F1E6 U+1F1EE",
     "translations": {
+      "en": "Anguilla",
       "ar": "أنغيلا"
     }
   },
@@ -94,6 +99,7 @@
     "emoji": "🇦🇱",
     "emojiU": "U+1F1E6 U+1F1F1",
     "translations": {
+      "en": "Albania",
       "ar": "ألبانيا"
     }
   },
@@ -111,6 +117,7 @@
     "emoji": "🇦🇲",
     "emojiU": "U+1F1E6 U+1F1F2",
     "translations": {
+      "en": "Armenia",
       "ar": "أرمينيا"
     }
   },
@@ -127,6 +134,7 @@
     "emoji": "🇦🇴",
     "emojiU": "U+1F1E6 U+1F1F4",
     "translations": {
+      "en": "Angola",
       "ar": "أنغولا"
     }
   },
@@ -141,6 +149,7 @@
     "emoji": "🇦🇶",
     "emojiU": "U+1F1E6 U+1F1F6",
     "translations": {
+      "en": "Antarctica",
       "ar": "القارة القطبية الجنوبية"
     }
   },
@@ -158,6 +167,7 @@
     "emoji": "🇦🇷",
     "emojiU": "U+1F1E6 U+1F1F7",
     "translations": {
+      "en": "Argentina",
       "ar": "الأرجنتين"
     }
   },
@@ -175,6 +185,7 @@
     "emoji": "🇦🇸",
     "emojiU": "U+1F1E6 U+1F1F8",
     "translations": {
+      "en": "American Samoa",
       "ar": "ساموا الأمريكية"
     }
   },
@@ -191,6 +202,7 @@
     "emoji": "🇦🇹",
     "emojiU": "U+1F1E6 U+1F1F9",
     "translations": {
+      "en": "Austria",
       "ar": "النمسا"
     }
   },
@@ -207,6 +219,7 @@
     "emoji": "🇦🇺",
     "emojiU": "U+1F1E6 U+1F1FA",
     "translations": {
+      "en": "Australia",
       "ar": "أستراليا"
     }
   },
@@ -224,6 +237,7 @@
     "emoji": "🇦🇼",
     "emojiU": "U+1F1E6 U+1F1FC",
     "translations": {
+      "en": "Aruba",
       "ar": "أروبا"
     }
   },
@@ -240,6 +254,7 @@
     "emoji": "🇦🇽",
     "emojiU": "U+1F1E6 U+1F1FD",
     "translations": {
+      "en": "Åland",
       "ar": "آلاند"
     }
   },
@@ -256,6 +271,7 @@
     "emoji": "🇦🇿",
     "emojiU": "U+1F1E6 U+1F1FF",
     "translations": {
+      "en": "Azerbaijan",
       "ar": "أذربيجان"
     }
   },
@@ -274,6 +290,7 @@
     "emoji": "🇧🇦",
     "emojiU": "U+1F1E7 U+1F1E6",
     "translations": {
+      "en": "Bosnia and Herzegovina",
       "ar": "البوسنة والهرسك"
     }
   },
@@ -290,6 +307,7 @@
     "emoji": "🇧🇧",
     "emojiU": "U+1F1E7 U+1F1E7",
     "translations": {
+      "en": "Barbados",
       "ar": "بربادوس"
     }
   },
@@ -306,6 +324,7 @@
     "emoji": "🇧🇩",
     "emojiU": "U+1F1E7 U+1F1E9",
     "translations": {
+      "en": "Bangladesh",
       "ar": "بنغلاديش"
     }
   },
@@ -324,6 +343,7 @@
     "emoji": "🇧🇪",
     "emojiU": "U+1F1E7 U+1F1EA",
     "translations": {
+      "en": "Belgium",
       "ar": "بلجيكا"
     }
   },
@@ -341,6 +361,7 @@
     "emoji": "🇧🇫",
     "emojiU": "U+1F1E7 U+1F1EB",
     "translations": {
+      "en": "Burkina Faso",
       "ar": "بوركينا فاسو"
     }
   },
@@ -357,6 +378,7 @@
     "emoji": "🇧🇬",
     "emojiU": "U+1F1E7 U+1F1EC",
     "translations": {
+      "en": "Bulgaria",
       "ar": "بلغاريا"
     }
   },
@@ -373,6 +395,7 @@
     "emoji": "🇧🇭",
     "emojiU": "U+1F1E7 U+1F1ED",
     "translations": {
+      "en": "Bahrain",
       "ar": "البحرين"
     }
   },
@@ -390,6 +413,7 @@
     "emoji": "🇧🇮",
     "emojiU": "U+1F1E7 U+1F1EE",
     "translations": {
+      "en": "Burundi",
       "ar": "بوروندي"
     }
   },
@@ -406,6 +430,7 @@
     "emoji": "🇧🇯",
     "emojiU": "U+1F1E7 U+1F1EF",
     "translations": {
+      "en": "Benin",
       "ar": "بنين"
     }
   },
@@ -422,6 +447,7 @@
     "emoji": "🇧🇱",
     "emojiU": "U+1F1E7 U+1F1F1",
     "translations": {
+      "en": "Saint Barthélemy",
       "ar": "سانت بارتيليمي"
     }
   },
@@ -438,6 +464,7 @@
     "emoji": "🇧🇲",
     "emojiU": "U+1F1E7 U+1F1F2",
     "translations": {
+      "en": "Bermuda",
       "ar": "برمودا"
     }
   },
@@ -454,6 +481,7 @@
     "emoji": "🇧🇳",
     "emojiU": "U+1F1E7 U+1F1F3",
     "translations": {
+      "en": "Brunei",
       "ar": "بروناي"
     }
   },
@@ -472,6 +500,7 @@
     "emoji": "🇧🇴",
     "emojiU": "U+1F1E7 U+1F1F4",
     "translations": {
+      "en": "Bolivia",
       "ar": "بوليفيا"
     }
   },
@@ -488,6 +517,7 @@
     "emoji": "🇧🇶",
     "emojiU": "U+1F1E7 U+1F1F6",
     "translations": {
+      "en": "Bonaire",
       "ar": "بونير"
     }
   },
@@ -504,6 +534,7 @@
     "emoji": "🇧🇷",
     "emojiU": "U+1F1E7 U+1F1F7",
     "translations": {
+      "en": "Brazil",
       "ar": "البرازيل"
     }
   },
@@ -520,6 +551,7 @@
     "emoji": "🇧🇸",
     "emojiU": "U+1F1E7 U+1F1F8",
     "translations": {
+      "en": "Bahamas",
       "ar": "الباهاما"
     }
   },
@@ -536,6 +568,7 @@
     "emoji": "🇧🇹",
     "emojiU": "U+1F1E7 U+1F1F9",
     "translations": {
+      "en": "Bhutan",
       "ar": "بوتان"
     }
   },
@@ -550,6 +583,7 @@
     "emoji": "🇧🇻",
     "emojiU": "U+1F1E7 U+1F1FB",
     "translations": {
+      "en": "Bouvet Island",
       "ar": "جزيرة بوفيت"
     }
   },
@@ -567,6 +601,7 @@
     "emoji": "🇧🇼",
     "emojiU": "U+1F1E7 U+1F1FC",
     "translations": {
+      "en": "Botswana",
       "ar": "بوتسوانا"
     }
   },
@@ -584,6 +619,7 @@
     "emoji": "🇧🇾",
     "emojiU": "U+1F1E7 U+1F1FE",
     "translations": {
+      "en": "Belarus",
       "ar": "روسيا البيضاء"
     }
   },
@@ -601,6 +637,7 @@
     "emoji": "🇧🇿",
     "emojiU": "U+1F1E7 U+1F1FF",
     "translations": {
+      "en": "Belize",
       "ar": "بليز"
     }
   },
@@ -618,6 +655,7 @@
     "emoji": "🇨🇦",
     "emojiU": "U+1F1E8 U+1F1E6",
     "translations": {
+      "en": "Canada",
       "ar": "كندا"
     }
   },
@@ -634,6 +672,7 @@
     "emoji": "🇨🇨",
     "emojiU": "U+1F1E8 U+1F1E8",
     "translations": {
+      "en": "Cocos [Keeling] Islands",
       "ar": "جزر كوكوس [كيلينغ]"
     }
   },
@@ -654,6 +693,7 @@
     "emoji": "🇨🇩",
     "emojiU": "U+1F1E8 U+1F1E9",
     "translations": {
+      "en": "Democratic Republic of the Congo",
       "ar": "جمهورية الكونغو الديموقراطية"
     }
   },
@@ -671,6 +711,7 @@
     "emoji": "🇨🇫",
     "emojiU": "U+1F1E8 U+1F1EB",
     "translations": {
+      "en": "Central African Republic",
       "ar": "جمهورية افريقيا الوسطى"
     }
   },
@@ -688,6 +729,7 @@
     "emoji": "🇨🇬",
     "emojiU": "U+1F1E8 U+1F1EC",
     "translations": {
+      "en": "Republic of the Congo",
       "ar": "جمهورية الكونغو"
     }
   },
@@ -706,6 +748,7 @@
     "emoji": "🇨🇭",
     "emojiU": "U+1F1E8 U+1F1ED",
     "translations": {
+      "en": "Switzerland",
       "ar": "سويسرا"
     }
   },
@@ -722,6 +765,7 @@
     "emoji": "🇨🇮",
     "emojiU": "U+1F1E8 U+1F1EE",
     "translations": {
+      "en": "Ivory Coast",
       "ar": "ساحل العاج"
     }
   },
@@ -738,6 +782,7 @@
     "emoji": "🇨🇰",
     "emojiU": "U+1F1E8 U+1F1F0",
     "translations": {
+      "en": "Cook Islands",
       "ar": "جزر كوك"
     }
   },
@@ -754,6 +799,7 @@
     "emoji": "🇨🇱",
     "emojiU": "U+1F1E8 U+1F1F1",
     "translations": {
+      "en": "Chile",
       "ar": "تشيلي"
     }
   },
@@ -771,6 +817,7 @@
     "emoji": "🇨🇲",
     "emojiU": "U+1F1E8 U+1F1F2",
     "translations": {
+      "en": "Cameroon",
       "ar": "الكاميرون"
     }
   },
@@ -787,6 +834,7 @@
     "emoji": "🇨🇳",
     "emojiU": "U+1F1E8 U+1F1F3",
     "translations": {
+      "en": "China",
       "ar": "الصين"
     }
   },
@@ -803,6 +851,7 @@
     "emoji": "🇨🇴",
     "emojiU": "U+1F1E8 U+1F1F4",
     "translations": {
+      "en": "Colombia",
       "ar": "كولومبيا"
     }
   },
@@ -819,6 +868,7 @@
     "emoji": "🇨🇷",
     "emojiU": "U+1F1E8 U+1F1F7",
     "translations": {
+      "en": "Costa Rica",
       "ar": "كوستاريكا"
     }
   },
@@ -835,6 +885,7 @@
     "emoji": "🇨🇺",
     "emojiU": "U+1F1E8 U+1F1FA",
     "translations": {
+      "en": "Cuba",
       "ar": "كوبا"
     }
   },
@@ -851,6 +902,7 @@
     "emoji": "🇨🇻",
     "emojiU": "U+1F1E8 U+1F1FB",
     "translations": {
+      "en": "Cape Verde",
       "ar": "الرأس الأخضر"
     }
   },
@@ -869,6 +921,7 @@
     "emoji": "🇨🇼",
     "emojiU": "U+1F1E8 U+1F1FC",
     "translations": {
+      "en": "Curacao",
       "ar": "كوراكاو"
     }
   },
@@ -885,6 +938,7 @@
     "emoji": "🇨🇽",
     "emojiU": "U+1F1E8 U+1F1FD",
     "translations": {
+      "en": "Christmas Island",
       "ar": "جزيرة الكريسماس"
     }
   },
@@ -903,6 +957,7 @@
     "emoji": "🇨🇾",
     "emojiU": "U+1F1E8 U+1F1FE",
     "translations": {
+      "en": "Cyprus",
       "ar": "قبرص"
     }
   },
@@ -920,6 +975,7 @@
     "emoji": "🇨🇿",
     "emojiU": "U+1F1E8 U+1F1FF",
     "translations": {
+      "en": "Czech Republic",
       "ar": "جمهورية التشيك"
     }
   },
@@ -936,6 +992,7 @@
     "emoji": "🇩🇪",
     "emojiU": "U+1F1E9 U+1F1EA",
     "translations": {
+      "en": "Germany",
       "ar": "ألمانيا"
     }
   },
@@ -953,6 +1010,7 @@
     "emoji": "🇩🇯",
     "emojiU": "U+1F1E9 U+1F1EF",
     "translations": {
+      "en": "Djibouti",
       "ar": "جيبوتي"
     }
   },
@@ -969,6 +1027,7 @@
     "emoji": "🇩🇰",
     "emojiU": "U+1F1E9 U+1F1F0",
     "translations": {
+      "en": "Denmark",
       "ar": "الدنمارك"
     }
   },
@@ -985,6 +1044,7 @@
     "emoji": "🇩🇲",
     "emojiU": "U+1F1E9 U+1F1F2",
     "translations": {
+      "en": "Dominica",
       "ar": "دومينيكا"
     }
   },
@@ -1001,6 +1061,7 @@
     "emoji": "🇩🇴",
     "emojiU": "U+1F1E9 U+1F1F4",
     "translations": {
+      "en": "Dominican Republic",
       "ar": "جمهورية الدومنيكان"
     }
   },
@@ -1017,6 +1078,7 @@
     "emoji": "🇩🇿",
     "emojiU": "U+1F1E9 U+1F1FF",
     "translations": {
+      "en": "Algeria",
       "ar": "الجزائر"
     }
   },
@@ -1033,6 +1095,7 @@
     "emoji": "🇪🇨",
     "emojiU": "U+1F1EA U+1F1E8",
     "translations": {
+      "en": "Ecuador",
       "ar": "الإكوادور"
     }
   },
@@ -1049,6 +1112,7 @@
     "emoji": "🇪🇪",
     "emojiU": "U+1F1EA U+1F1EA",
     "translations": {
+      "en": "Estonia",
       "ar": "استونيا"
     }
   },
@@ -1065,6 +1129,7 @@
     "emoji": "🇪🇬",
     "emojiU": "U+1F1EA U+1F1EC",
     "translations": {
+      "en": "Egypt",
       "ar": "مصر"
     }
   },
@@ -1081,6 +1146,7 @@
     "emoji": "🇪🇭",
     "emojiU": "U+1F1EA U+1F1ED",
     "translations": {
+      "en": "Western Sahara",
       "ar": "الصحراء الغربية"
     }
   },
@@ -1099,6 +1165,7 @@
     "emoji": "🇪🇷",
     "emojiU": "U+1F1EA U+1F1F7",
     "translations": {
+      "en": "Eritrea",
       "ar": "إريتريا"
     }
   },
@@ -1119,6 +1186,7 @@
     "emoji": "🇪🇸",
     "emojiU": "U+1F1EA U+1F1F8",
     "translations": {
+      "en": "Spain",
       "ar": "إسبانيا"
     }
   },
@@ -1135,6 +1203,7 @@
     "emoji": "🇪🇹",
     "emojiU": "U+1F1EA U+1F1F9",
     "translations": {
+      "en": "Ethiopia",
       "ar": "أثيوبيا"
     }
   },
@@ -1152,6 +1221,7 @@
     "emoji": "🇫🇮",
     "emojiU": "U+1F1EB U+1F1EE",
     "translations": {
+      "en": "Finland",
       "ar": "فنلندا"
     }
   },
@@ -1171,6 +1241,7 @@
     "emoji": "🇫🇯",
     "emojiU": "U+1F1EB U+1F1EF",
     "translations": {
+      "en": "Fiji",
       "ar": "فيجي"
     }
   },
@@ -1187,6 +1258,7 @@
     "emoji": "🇫🇰",
     "emojiU": "U+1F1EB U+1F1F0",
     "translations": {
+      "en": "Falkland Islands",
       "ar": "جزر فوكلاند"
     }
   },
@@ -1203,6 +1275,7 @@
     "emoji": "🇫🇲",
     "emojiU": "U+1F1EB U+1F1F2",
     "translations": {
+      "en": "Micronesia",
       "ar": "ميكرونيزيا"
     }
   },
@@ -1219,6 +1292,7 @@
     "emoji": "🇫🇴",
     "emojiU": "U+1F1EB U+1F1F4",
     "translations": {
+      "en": "Faroe Islands",
       "ar": "جزر صناعية"
     }
   },
@@ -1235,6 +1309,7 @@
     "emoji": "🇫🇷",
     "emojiU": "U+1F1EB U+1F1F7",
     "translations": {
+      "en": "France",
       "ar": "فرنسا"
     }
   },
@@ -1251,6 +1326,7 @@
     "emoji": "🇬🇦",
     "emojiU": "U+1F1EC U+1F1E6",
     "translations": {
+      "en": "Gabon",
       "ar": "الغابون"
     }
   },
@@ -1267,6 +1343,7 @@
     "emoji": "🇬🇧",
     "emojiU": "U+1F1EC U+1F1E7",
     "translations": {
+      "en": "United Kingdom",
       "ar": "المملكة المتحدة"
     }
   },
@@ -1283,6 +1360,7 @@
     "emoji": "🇬🇩",
     "emojiU": "U+1F1EC U+1F1E9",
     "translations": {
+      "en": "Grenada",
       "ar": "غرينادا"
     }
   },
@@ -1299,6 +1377,7 @@
     "emoji": "🇬🇪",
     "emojiU": "U+1F1EC U+1F1EA",
     "translations": {
+      "en": "Georgia",
       "ar": "جورجيا"
     }
   },
@@ -1315,6 +1394,7 @@
     "emoji": "🇬🇫",
     "emojiU": "U+1F1EC U+1F1EB",
     "translations": {
+      "en": "French Guiana",
       "ar": "غيانا الفرنسية"
     }
   },
@@ -1332,6 +1412,7 @@
     "emoji": "🇬🇬",
     "emojiU": "U+1F1EC U+1F1EC",
     "translations": {
+      "en": "Guernsey",
       "ar": "غيرنسي"
     }
   },
@@ -1348,6 +1429,7 @@
     "emoji": "🇬🇭",
     "emojiU": "U+1F1EC U+1F1ED",
     "translations": {
+      "en": "Ghana",
       "ar": "غانا"
     }
   },
@@ -1364,6 +1446,7 @@
     "emoji": "🇬🇮",
     "emojiU": "U+1F1EC U+1F1EE",
     "translations": {
+      "en": "Gibraltar",
       "ar": "جبل طارق"
     }
   },
@@ -1380,6 +1463,7 @@
     "emoji": "🇬🇱",
     "emojiU": "U+1F1EC U+1F1F1",
     "translations": {
+      "en": "Greenland",
       "ar": "الأرض الخضراء"
     }
   },
@@ -1396,6 +1480,7 @@
     "emoji": "🇬🇲",
     "emojiU": "U+1F1EC U+1F1F2",
     "translations": {
+      "en": "Gambia",
       "ar": "غامبيا"
     }
   },
@@ -1413,6 +1498,7 @@
     "emoji": "🇬🇳",
     "emojiU": "U+1F1EC U+1F1F3",
     "translations": {
+      "en": "Guinea",
       "ar": "غينيا"
     }
   },
@@ -1429,6 +1515,7 @@
     "emoji": "🇬🇵",
     "emojiU": "U+1F1EC U+1F1F5",
     "translations": {
+      "en": "Guadeloupe",
       "ar": "جوادلوب"
     }
   },
@@ -1446,6 +1533,7 @@
     "emoji": "🇬🇶",
     "emojiU": "U+1F1EC U+1F1F6",
     "translations": {
+      "en": "Equatorial Guinea",
       "ar": "غينيا الإستوائية"
     }
   },
@@ -1462,6 +1550,7 @@
     "emoji": "🇬🇷",
     "emojiU": "U+1F1EC U+1F1F7",
     "translations": {
+      "en": "Greece",
       "ar": "اليونان"
     }
   },
@@ -1478,6 +1567,7 @@
     "emoji": "🇬🇸",
     "emojiU": "U+1F1EC U+1F1F8",
     "translations": {
+      "en": "South Georgia and the South Sandwich Islands",
       "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
     }
   },
@@ -1494,6 +1584,7 @@
     "emoji": "🇬🇹",
     "emojiU": "U+1F1EC U+1F1F9",
     "translations": {
+      "en": "Guatemala",
       "ar": "غواتيمالا"
     }
   },
@@ -1512,6 +1603,7 @@
     "emoji": "🇬🇺",
     "emojiU": "U+1F1EC U+1F1FA",
     "translations": {
+      "en": "Guam",
       "ar": "غوام"
     }
   },
@@ -1528,6 +1620,7 @@
     "emoji": "🇬🇼",
     "emojiU": "U+1F1EC U+1F1FC",
     "translations": {
+      "en": "Guinea-Bissau",
       "ar": "غينيا بيساو"
     }
   },
@@ -1544,6 +1637,7 @@
     "emoji": "🇬🇾",
     "emojiU": "U+1F1EC U+1F1FE",
     "translations": {
+      "en": "Guyana",
       "ar": "غيانا"
     }
   },
@@ -1561,6 +1655,7 @@
     "emoji": "🇭🇰",
     "emojiU": "U+1F1ED U+1F1F0",
     "translations": {
+      "en": "Hong Kong",
       "ar": "هونغ كونغ"
     }
   },
@@ -1577,6 +1672,7 @@
     "emoji": "🇭🇲",
     "emojiU": "U+1F1ED U+1F1F2",
     "translations": {
+      "en": "Heard Island and McDonald Islands",
       "ar": "قلب الجزيرة وجزر ماكدونالز"
     }
   },
@@ -1593,6 +1689,7 @@
     "emoji": "🇭🇳",
     "emojiU": "U+1F1ED U+1F1F3",
     "translations": {
+      "en": "Honduras",
       "ar": "هندوراس"
     }
   },
@@ -1609,6 +1706,7 @@
     "emoji": "🇭🇷",
     "emojiU": "U+1F1ED U+1F1F7",
     "translations": {
+      "en": "Croatia",
       "ar": "كرواتيا"
     }
   },
@@ -1626,6 +1724,7 @@
     "emoji": "🇭🇹",
     "emojiU": "U+1F1ED U+1F1F9",
     "translations": {
+      "en": "Haiti",
       "ar": "هايتي"
     }
   },
@@ -1642,6 +1741,7 @@
     "emoji": "🇭🇺",
     "emojiU": "U+1F1ED U+1F1FA",
     "translations": {
+      "en": "Hungary",
       "ar": "اليونان"
     }
   },
@@ -1658,6 +1758,7 @@
     "emoji": "🇮🇩",
     "emojiU": "U+1F1EE U+1F1E9",
     "translations": {
+      "en": "Indonesia",
       "ar": "أندونيسيا"
     }
   },
@@ -1675,6 +1776,7 @@
     "emoji": "🇮🇪",
     "emojiU": "U+1F1EE U+1F1EA",
     "translations": {
+      "en": "Ireland",
       "ar": "أيرلندا"
     }
   },
@@ -1692,6 +1794,7 @@
     "emoji": "🇮🇱",
     "emojiU": "U+1F1EE U+1F1F1",
     "translations": {
+      "en": "Israel",
       "ar": "إسرائيل"
     }
   },
@@ -1709,6 +1812,7 @@
     "emoji": "🇮🇲",
     "emojiU": "U+1F1EE U+1F1F2",
     "translations": {
+      "en": "Isle of Man",
       "ar": "جزيرة آيل أوف مان"
     }
   },
@@ -1726,6 +1830,7 @@
     "emoji": "🇮🇳",
     "emojiU": "U+1F1EE U+1F1F3",
     "translations": {
+      "en": "India",
       "ar": "الهند"
     }
   },
@@ -1742,6 +1847,7 @@
     "emoji": "🇮🇴",
     "emojiU": "U+1F1EE U+1F1F4",
     "translations": {
+      "en": "British Indian Ocean Territory",
       "ar": "إقليم المحيط البريطاني الهندي"
     }
   },
@@ -1759,6 +1865,7 @@
     "emoji": "🇮🇶",
     "emojiU": "U+1F1EE U+1F1F6",
     "translations": {
+      "en": "Iraq",
       "ar": "العراق"
     }
   },
@@ -1775,6 +1882,7 @@
     "emoji": "🇮🇷",
     "emojiU": "U+1F1EE U+1F1F7",
     "translations": {
+      "en": "Iran",
       "ar": "إيران"
     }
   },
@@ -1791,6 +1899,7 @@
     "emoji": "🇮🇸",
     "emojiU": "U+1F1EE U+1F1F8",
     "translations": {
+      "en": "Iceland",
       "ar": "أيسلندا"
     }
   },
@@ -1807,6 +1916,7 @@
     "emoji": "🇮🇹",
     "emojiU": "U+1F1EE U+1F1F9",
     "translations": {
+      "en": "Italy",
       "ar": "إيطاليا"
     }
   },
@@ -1824,6 +1934,7 @@
     "emoji": "🇯🇪",
     "emojiU": "U+1F1EF U+1F1EA",
     "translations": {
+      "en": "Jersey",
       "ar": "جيرسي"
     }
   },
@@ -1840,6 +1951,7 @@
     "emoji": "🇯🇲",
     "emojiU": "U+1F1EF U+1F1F2",
     "translations": {
+      "en": "Jamaica",
       "ar": "جامايكا"
     }
   },
@@ -1856,6 +1968,7 @@
     "emoji": "🇯🇴",
     "emojiU": "U+1F1EF U+1F1F4",
     "translations": {
+      "en": "Jordan",
       "ar": "الأردن"
     }
   },
@@ -1872,6 +1985,7 @@
     "emoji": "🇯🇵",
     "emojiU": "U+1F1EF U+1F1F5",
     "translations": {
+      "en": "Japan",
       "ar": "اليابان"
     }
   },
@@ -1889,6 +2003,7 @@
     "emoji": "🇰🇪",
     "emojiU": "U+1F1F0 U+1F1EA",
     "translations": {
+      "en": "Kenya",
       "ar": "كينيا"
     }
   },
@@ -1906,6 +2021,7 @@
     "emoji": "🇰🇬",
     "emojiU": "U+1F1F0 U+1F1EC",
     "translations": {
+      "en": "Kyrgyzstan",
       "ar": "قرغيزستان"
     }
   },
@@ -1922,6 +2038,7 @@
     "emoji": "🇰🇭",
     "emojiU": "U+1F1F0 U+1F1ED",
     "translations": {
+      "en": "Cambodia",
       "ar": "كمبوديا"
     }
   },
@@ -1938,6 +2055,7 @@
     "emoji": "🇰🇮",
     "emojiU": "U+1F1F0 U+1F1EE",
     "translations": {
+      "en": "Kiribati",
       "ar": "كيريباس"
     }
   },
@@ -1955,6 +2073,7 @@
     "emoji": "🇰🇲",
     "emojiU": "U+1F1F0 U+1F1F2",
     "translations": {
+      "en": "Comoros",
       "ar": "جزر القمر"
     }
   },
@@ -1971,6 +2090,7 @@
     "emoji": "🇰🇳",
     "emojiU": "U+1F1F0 U+1F1F3",
     "translations": {
+      "en": "Saint Kitts and Nevis",
       "ar": "سانت كيتس ونيفيس"
     }
   },
@@ -1987,6 +2107,7 @@
     "emoji": "🇰🇵",
     "emojiU": "U+1F1F0 U+1F1F5",
     "translations": {
+      "en": "North Korea",
       "ar": "كوريا الشمالية"
     }
   },
@@ -2003,6 +2124,7 @@
     "emoji": "🇰🇷",
     "emojiU": "U+1F1F0 U+1F1F7",
     "translations": {
+      "en": "South Korea",
       "ar": "كوريا الجنوبية"
     }
   },
@@ -2019,6 +2141,7 @@
     "emoji": "🇰🇼",
     "emojiU": "U+1F1F0 U+1F1FC",
     "translations": {
+      "en": "Kuwait",
       "ar": "الكويت"
     }
   },
@@ -2035,6 +2158,7 @@
     "emoji": "🇰🇾",
     "emojiU": "U+1F1F0 U+1F1FE",
     "translations": {
+      "en": "Cayman Islands",
       "ar": "جزر كايمان"
     }
   },
@@ -2052,6 +2176,7 @@
     "emoji": "🇰🇿",
     "emojiU": "U+1F1F0 U+1F1FF",
     "translations": {
+      "en": "Kazakhstan",
       "ar": "كازاخستان"
     }
   },
@@ -2068,6 +2193,7 @@
     "emoji": "🇱🇦",
     "emojiU": "U+1F1F1 U+1F1E6",
     "translations": {
+      "en": "Laos",
       "ar": "لاوس"
     }
   },
@@ -2085,6 +2211,7 @@
     "emoji": "🇱🇧",
     "emojiU": "U+1F1F1 U+1F1E7",
     "translations": {
+      "en": "Lebanon",
       "ar": "لبنان"
     }
   },
@@ -2101,6 +2228,7 @@
     "emoji": "🇱🇨",
     "emojiU": "U+1F1F1 U+1F1E8",
     "translations": {
+      "en": "Saint Lucia",
       "ar": "القديسة لوسيا"
     }
   },
@@ -2117,6 +2245,7 @@
     "emoji": "🇱🇮",
     "emojiU": "U+1F1F1 U+1F1EE",
     "translations": {
+      "en": "Liechtenstein",
       "ar": "ليختنشتاين"
     }
   },
@@ -2134,6 +2263,7 @@
     "emoji": "🇱🇰",
     "emojiU": "U+1F1F1 U+1F1F0",
     "translations": {
+      "en": "Sri Lanka",
       "ar": "سيريلانكا"
     }
   },
@@ -2150,6 +2280,7 @@
     "emoji": "🇱🇷",
     "emojiU": "U+1F1F1 U+1F1F7",
     "translations": {
+      "en": "Liberia",
       "ar": "ليبيريا"
     }
   },
@@ -2167,6 +2298,7 @@
     "emoji": "🇱🇸",
     "emojiU": "U+1F1F1 U+1F1F8",
     "translations": {
+      "en": "Lesotho",
       "ar": "ليسوتو"
     }
   },
@@ -2183,6 +2315,7 @@
     "emoji": "🇱🇹",
     "emojiU": "U+1F1F1 U+1F1F9",
     "translations": {
+      "en": "Lithuania",
       "ar": "ليتوانيا"
     }
   },
@@ -2201,6 +2334,7 @@
     "emoji": "🇱🇺",
     "emojiU": "U+1F1F1 U+1F1FA",
     "translations": {
+      "en": "Luxembourg",
       "ar": "لوكسمبورغ"
     }
   },
@@ -2217,6 +2351,7 @@
     "emoji": "🇱🇻",
     "emojiU": "U+1F1F1 U+1F1FB",
     "translations": {
+      "en": "Latvia",
       "ar": "لاتفيا"
     }
   },
@@ -2233,6 +2368,7 @@
     "emoji": "🇱🇾",
     "emojiU": "U+1F1F1 U+1F1FE",
     "translations": {
+      "en": "Libya",
       "ar": "ليبيا"
     }
   },
@@ -2249,6 +2385,7 @@
     "emoji": "🇲🇦",
     "emojiU": "U+1F1F2 U+1F1E6",
     "translations": {
+      "en": "Morocco",
       "ar": "المغرب"
     }
   },
@@ -2265,6 +2402,7 @@
     "emoji": "🇲🇨",
     "emojiU": "U+1F1F2 U+1F1E8",
     "translations": {
+      "en": "Monaco",
       "ar": "موناكو"
     }
   },
@@ -2281,6 +2419,7 @@
     "emoji": "🇲🇩",
     "emojiU": "U+1F1F2 U+1F1E9",
     "translations": {
+      "en": "Moldova",
       "ar": "مولدافيا"
     }
   },
@@ -2300,6 +2439,7 @@
     "emoji": "🇲🇪",
     "emojiU": "U+1F1F2 U+1F1EA",
     "translations": {
+      "en": "Montenegro",
       "ar": "الجبل الأسود"
     }
   },
@@ -2318,6 +2458,7 @@
     "emoji": "🇲🇫",
     "emojiU": "U+1F1F2 U+1F1EB",
     "translations": {
+      "en": "Saint Martin",
       "ar": "القديس مارتن"
     }
   },
@@ -2335,6 +2476,7 @@
     "emoji": "🇲🇬",
     "emojiU": "U+1F1F2 U+1F1EC",
     "translations": {
+      "en": "Madagascar",
       "ar": "مدغشقر"
     }
   },
@@ -2352,6 +2494,7 @@
     "emoji": "🇲🇭",
     "emojiU": "U+1F1F2 U+1F1ED",
     "translations": {
+      "en": "Marshall Islands",
       "ar": "جزر مارشال"
     }
   },
@@ -2368,6 +2511,7 @@
     "emoji": "🇲🇰",
     "emojiU": "U+1F1F2 U+1F1F0",
     "translations": {
+      "en": "Macedonia",
       "ar": "مقدونيا"
     }
   },
@@ -2384,6 +2528,7 @@
     "emoji": "🇲🇱",
     "emojiU": "U+1F1F2 U+1F1F1",
     "translations": {
+      "en": "Mali",
       "ar": "مالي"
     }
   },
@@ -2400,6 +2545,7 @@
     "emoji": "🇲🇲",
     "emojiU": "U+1F1F2 U+1F1F2",
     "translations": {
+      "en": "Myanmar [Burma]",
       "ar": "ميانمار [بورما]"
     }
   },
@@ -2416,6 +2562,7 @@
     "emoji": "🇲🇳",
     "emojiU": "U+1F1F2 U+1F1F3",
     "translations": {
+      "en": "Mongolia",
       "ar": "منغوليا"
     }
   },
@@ -2433,6 +2580,7 @@
     "emoji": "🇲🇴",
     "emojiU": "U+1F1F2 U+1F1F4",
     "translations": {
+      "en": "Macao",
       "ar": "ماكاو"
     }
   },
@@ -2450,6 +2598,7 @@
     "emoji": "🇲🇵",
     "emojiU": "U+1F1F2 U+1F1F5",
     "translations": {
+      "en": "Northern Mariana Islands",
       "ar": "جزر مريانا الشمالية"
     }
   },
@@ -2466,6 +2615,7 @@
     "emoji": "🇲🇶",
     "emojiU": "U+1F1F2 U+1F1F6",
     "translations": {
+      "en": "Martinique",
       "ar": "مارتينيك"
     }
   },
@@ -2482,6 +2632,7 @@
     "emoji": "🇲🇷",
     "emojiU": "U+1F1F2 U+1F1F7",
     "translations": {
+      "en": "Mauritania",
       "ar": "موريتانيا"
     }
   },
@@ -2498,6 +2649,7 @@
     "emoji": "🇲🇸",
     "emojiU": "U+1F1F2 U+1F1F8",
     "translations": {
+      "en": "Montserrat",
       "ar": "مونتسيرات"
     }
   },
@@ -2515,6 +2667,7 @@
     "emoji": "🇲🇹",
     "emojiU": "U+1F1F2 U+1F1F9",
     "translations": {
+      "en": "Malta",
       "ar": "مالطا"
     }
   },
@@ -2531,6 +2684,7 @@
     "emoji": "🇲🇺",
     "emojiU": "U+1F1F2 U+1F1FA",
     "translations": {
+      "en": "Mauritius",
       "ar": "موريشيوس"
     }
   },
@@ -2547,6 +2701,7 @@
     "emoji": "🇲🇻",
     "emojiU": "U+1F1F2 U+1F1FB",
     "translations": {
+      "en": "Maldives",
       "ar": "جزر المالديف"
     }
   },
@@ -2564,6 +2719,7 @@
     "emoji": "🇲🇼",
     "emojiU": "U+1F1F2 U+1F1FC",
     "translations": {
+      "en": "Malawi",
       "ar": "مالاوي"
     }
   },
@@ -2580,6 +2736,7 @@
     "emoji": "🇲🇽",
     "emojiU": "U+1F1F2 U+1F1FD",
     "translations": {
+      "en": "Mexico",
       "ar": "المكسيك"
     }
   },
@@ -2594,6 +2751,7 @@
     "emoji": "🇲🇾",
     "emojiU": "U+1F1F2 U+1F1FE",
     "translations": {
+      "en": "Malaysia",
       "ar": "ماليزيا"
     }
   },
@@ -2610,6 +2768,7 @@
     "emoji": "🇲🇿",
     "emojiU": "U+1F1F2 U+1F1FF",
     "translations": {
+      "en": "Mozambique",
       "ar": "موزمبيق"
     }
   },
@@ -2627,6 +2786,7 @@
     "emoji": "🇳🇦",
     "emojiU": "U+1F1F3 U+1F1E6",
     "translations": {
+      "en": "Namibia",
       "ar": "ناميبيا"
     }
   },
@@ -2643,6 +2803,7 @@
     "emoji": "🇳🇨",
     "emojiU": "U+1F1F3 U+1F1E8",
     "translations": {
+      "en": "New Caledonia",
       "ar": "كاليدونيا الجديدة"
     }
   },
@@ -2659,6 +2820,7 @@
     "emoji": "🇳🇪",
     "emojiU": "U+1F1F3 U+1F1EA",
     "translations": {
+      "en": "Niger",
       "ar": "النيجر"
     }
   },
@@ -2675,6 +2837,7 @@
     "emoji": "🇳🇫",
     "emojiU": "U+1F1F3 U+1F1EB",
     "translations": {
+      "en": "Norfolk Island",
       "ar": "جزيرة نورفولك"
     }
   },
@@ -2691,6 +2854,7 @@
     "emoji": "🇳🇬",
     "emojiU": "U+1F1F3 U+1F1EC",
     "translations": {
+      "en": "Nigeria",
       "ar": "نيجيريا"
     }
   },
@@ -2707,6 +2871,7 @@
     "emoji": "🇳🇮",
     "emojiU": "U+1F1F3 U+1F1EE",
     "translations": {
+      "en": "Nicaragua",
       "ar": "نيكاراغوا"
     }
   },
@@ -2723,6 +2888,7 @@
     "emoji": "🇳🇱",
     "emojiU": "U+1F1F3 U+1F1F1",
     "translations": {
+      "en": "Netherlands",
       "ar": "هولندا"
     }
   },
@@ -2741,6 +2907,7 @@
     "emoji": "🇳🇴",
     "emojiU": "U+1F1F3 U+1F1F4",
     "translations": {
+      "en": "Norway",
       "ar": "النرويج"
     }
   },
@@ -2757,6 +2924,7 @@
     "emoji": "🇳🇵",
     "emojiU": "U+1F1F3 U+1F1F5",
     "translations": {
+      "en": "Nepal",
       "ar": "نيبال"
     }
   },
@@ -2774,6 +2942,7 @@
     "emoji": "🇳🇷",
     "emojiU": "U+1F1F3 U+1F1F7",
     "translations": {
+      "en": "Nauru",
       "ar": "ناورو"
     }
   },
@@ -2790,6 +2959,7 @@
     "emoji": "🇳🇺",
     "emojiU": "U+1F1F3 U+1F1FA",
     "translations": {
+      "en": "Niue",
       "ar": "نيوي"
     }
   },
@@ -2807,6 +2977,7 @@
     "emoji": "🇳🇿",
     "emojiU": "U+1F1F3 U+1F1FF",
     "translations": {
+      "en": "New Zealand",
       "ar": "نيوزيلاندا"
     }
   },
@@ -2823,6 +2994,7 @@
     "emoji": "🇴🇲",
     "emojiU": "U+1F1F4 U+1F1F2",
     "translations": {
+      "en": "Oman",
       "ar": "عمان"
     }
   },
@@ -2839,6 +3011,7 @@
     "emoji": "🇵🇦",
     "emojiU": "U+1F1F5 U+1F1E6",
     "translations": {
+      "en": "Panama",
       "ar": "بناما"
     }
   },
@@ -2855,6 +3028,7 @@
     "emoji": "🇵🇪",
     "emojiU": "U+1F1F5 U+1F1EA",
     "translations": {
+      "en": "Peru",
       "ar": "بيرو"
     }
   },
@@ -2871,6 +3045,7 @@
     "emoji": "🇵🇫",
     "emojiU": "U+1F1F5 U+1F1EB",
     "translations": {
+      "en": "French Polynesia",
       "ar": "بولينيزيا الفرنسية"
     }
   },
@@ -2887,6 +3062,7 @@
     "emoji": "🇵🇬",
     "emojiU": "U+1F1F5 U+1F1EC",
     "translations": {
+      "en": "Papua New Guinea",
       "ar": "بابوا غينيا الجديدة"
     }
   },
@@ -2903,6 +3079,7 @@
     "emoji": "🇵🇭",
     "emojiU": "U+1F1F5 U+1F1ED",
     "translations": {
+      "en": "Philippines",
       "ar": "الفلبين"
     }
   },
@@ -2920,6 +3097,7 @@
     "emoji": "🇵🇰",
     "emojiU": "U+1F1F5 U+1F1F0",
     "translations": {
+      "en": "Pakistan",
       "ar": "باكستان"
     }
   },
@@ -2936,6 +3114,7 @@
     "emoji": "🇵🇱",
     "emojiU": "U+1F1F5 U+1F1F1",
     "translations": {
+      "en": "Poland",
       "ar": "بولندا"
     }
   },
@@ -2952,6 +3131,7 @@
     "emoji": "🇵🇲",
     "emojiU": "U+1F1F5 U+1F1F2",
     "translations": {
+      "en": "Saint Pierre and Miquelon",
       "ar": "سانت بيير وميكلون"
     }
   },
@@ -2968,6 +3148,7 @@
     "emoji": "🇵🇳",
     "emojiU": "U+1F1F5 U+1F1F3",
     "translations": {
+      "en": "Pitcairn Islands",
       "ar": "جزر بيتكيرن"
     }
   },
@@ -2985,6 +3166,7 @@
     "emoji": "🇵🇷",
     "emojiU": "U+1F1F5 U+1F1F7",
     "translations": {
+      "en": "Puerto Rico",
       "ar": "بورتوريكو"
     }
   },
@@ -3001,6 +3183,7 @@
     "emoji": "🇵🇸",
     "emojiU": "U+1F1F5 U+1F1F8",
     "translations": {
+      "en": "Palestine",
       "ar": "فلسطين"
     }
   },
@@ -3017,6 +3200,7 @@
     "emoji": "🇵🇹",
     "emojiU": "U+1F1F5 U+1F1F9",
     "translations": {
+      "en": "Portugal",
       "ar": "البرتغال"
     }
   },
@@ -3033,6 +3217,7 @@
     "emoji": "🇵🇼",
     "emojiU": "U+1F1F5 U+1F1FC",
     "translations": {
+      "en": "Palau",
       "ar": "بالاو"
     }
   },
@@ -3050,6 +3235,7 @@
     "emoji": "🇵🇾",
     "emojiU": "U+1F1F5 U+1F1FE",
     "translations": {
+      "en": "Paraguay",
       "ar": "باراغواي"
     }
   },
@@ -3066,6 +3252,7 @@
     "emoji": "🇶🇦",
     "emojiU": "U+1F1F6 U+1F1E6",
     "translations": {
+      "en": "Qatar",
       "ar": "دولة قطر"
     }
   },
@@ -3082,6 +3269,7 @@
     "emoji": "🇷🇪",
     "emojiU": "U+1F1F7 U+1F1EA",
     "translations": {
+      "en": "Réunion",
       "ar": "لقاء"
     }
   },
@@ -3098,6 +3286,7 @@
     "emoji": "🇷🇴",
     "emojiU": "U+1F1F7 U+1F1F4",
     "translations": {
+      "en": "Romania",
       "ar": "رومانيا"
     }
   },
@@ -3114,6 +3303,7 @@
     "emoji": "🇷🇸",
     "emojiU": "U+1F1F7 U+1F1F8",
     "translations": {
+      "en": "Serbia",
       "ar": "صربيا"
     }
   },
@@ -3130,6 +3320,7 @@
     "emoji": "🇷🇺",
     "emojiU": "U+1F1F7 U+1F1FA",
     "translations": {
+      "en": "Russia",
       "ar": "روسيا"
     }
   },
@@ -3148,6 +3339,7 @@
     "emoji": "🇷🇼",
     "emojiU": "U+1F1F7 U+1F1FC",
     "translations": {
+      "en": "Rwanda",
       "ar": "رواندا"
     }
   },
@@ -3164,6 +3356,7 @@
     "emoji": "🇸🇦",
     "emojiU": "U+1F1F8 U+1F1E6",
     "translations": {
+      "en": "Saudi Arabia",
       "ar": "سعودي عربية"
     }
   },
@@ -3180,6 +3373,7 @@
     "emoji": "🇸🇧",
     "emojiU": "U+1F1F8 U+1F1E7",
     "translations": {
+      "en": "Solomon Islands",
       "ar": "جزر سليمان"
     }
   },
@@ -3197,6 +3391,7 @@
     "emoji": "🇸🇨",
     "emojiU": "U+1F1F8 U+1F1E8",
     "translations": {
+      "en": "Seychelles",
       "ar": "سيشيل"
     }
   },
@@ -3214,6 +3409,7 @@
     "emoji": "🇸🇩",
     "emojiU": "U+1F1F8 U+1F1E9",
     "translations": {
+      "en": "Sudan",
       "ar": "سودان"
     }
   },
@@ -3230,6 +3426,7 @@
     "emoji": "🇸🇪",
     "emojiU": "U+1F1F8 U+1F1EA",
     "translations": {
+      "en": "Sweden",
       "ar": "السويد"
     }
   },
@@ -3249,6 +3446,7 @@
     "emoji": "🇸🇬",
     "emojiU": "U+1F1F8 U+1F1EC",
     "translations": {
+      "en": "Singapore",
       "ar": "سنغافورة"
     }
   },
@@ -3265,6 +3463,7 @@
     "emoji": "🇸🇭",
     "emojiU": "U+1F1F8 U+1F1ED",
     "translations": {
+      "en": "Saint Helena",
       "ar": "سانت هيلانة"
     }
   },
@@ -3281,6 +3480,7 @@
     "emoji": "🇸🇮",
     "emojiU": "U+1F1F8 U+1F1EE",
     "translations": {
+      "en": "Slovenia",
       "ar": "سلوفينيا"
     }
   },
@@ -3297,6 +3497,7 @@
     "emoji": "🇸🇯",
     "emojiU": "U+1F1F8 U+1F1EF",
     "translations": {
+      "en": "Svalbard and Jan Mayen",
       "ar": "سفالبارد وجان ماين"
     }
   },
@@ -3313,6 +3514,7 @@
     "emoji": "🇸🇰",
     "emojiU": "U+1F1F8 U+1F1F0",
     "translations": {
+      "en": "Slovakia",
       "ar": "سلوفاكيا"
     }
   },
@@ -3329,6 +3531,7 @@
     "emoji": "🇸🇱",
     "emojiU": "U+1F1F8 U+1F1F1",
     "translations": {
+      "en": "Sierra Leone",
       "ar": "سيراليون"
     }
   },
@@ -3345,6 +3548,7 @@
     "emoji": "🇸🇲",
     "emojiU": "U+1F1F8 U+1F1F2",
     "translations": {
+      "en": "San Marino",
       "ar": "سان مارينو"
     }
   },
@@ -3361,6 +3565,7 @@
     "emoji": "🇸🇳",
     "emojiU": "U+1F1F8 U+1F1F3",
     "translations": {
+      "en": "Senegal",
       "ar": "السنغال"
     }
   },
@@ -3378,6 +3583,7 @@
     "emoji": "🇸🇴",
     "emojiU": "U+1F1F8 U+1F1F4",
     "translations": {
+      "en": "Somalia",
       "ar": "الصومال"
     }
   },
@@ -3394,6 +3600,7 @@
     "emoji": "🇸🇷",
     "emojiU": "U+1F1F8 U+1F1F7",
     "translations": {
+      "en": "Suriname",
       "ar": "سورينام"
     }
   },
@@ -3410,6 +3617,7 @@
     "emoji": "🇸🇸",
     "emojiU": "U+1F1F8 U+1F1F8",
     "translations": {
+      "en": "South Sudan",
       "ar": "جنوب السودان"
     }
   },
@@ -3426,6 +3634,7 @@
     "emoji": "🇸🇹",
     "emojiU": "U+1F1F8 U+1F1F9",
     "translations": {
+      "en": "São Tomé and Príncipe",
       "ar": "ساو تومي وبرينسيبي"
     }
   },
@@ -3442,6 +3651,7 @@
     "emoji": "🇸🇻",
     "emojiU": "U+1F1F8 U+1F1FB",
     "translations": {
+      "en": "El Salvador",
       "ar": "السلفادور"
     }
   },
@@ -3459,6 +3669,7 @@
     "emoji": "🇸🇽",
     "emojiU": "U+1F1F8 U+1F1FD",
     "translations": {
+      "en": "Sint Maarten",
       "ar": "سانت مارتن"
     }
   },
@@ -3475,6 +3686,7 @@
     "emoji": "🇸🇾",
     "emojiU": "U+1F1F8 U+1F1FE",
     "translations": {
+      "en": "Syria",
       "ar": "سوريا"
     }
   },
@@ -3492,6 +3704,7 @@
     "emoji": "🇸🇿",
     "emojiU": "U+1F1F8 U+1F1FF",
     "translations": {
+      "en": "Swaziland",
       "ar": "سوازيلاند"
     }
   },
@@ -3508,6 +3721,7 @@
     "emoji": "🇹🇨",
     "emojiU": "U+1F1F9 U+1F1E8",
     "translations": {
+      "en": "Turks and Caicos Islands",
       "ar": "جزر تركس وكايكوس"
     }
   },
@@ -3525,6 +3739,7 @@
     "emoji": "🇹🇩",
     "emojiU": "U+1F1F9 U+1F1E9",
     "translations": {
+      "en": "Chad",
       "ar": "تشاد"
     }
   },
@@ -3541,6 +3756,7 @@
     "emoji": "🇹🇫",
     "emojiU": "U+1F1F9 U+1F1EB",
     "translations": {
+      "en": "French Southern Territories",
       "ar": "المناطق الجنوبية لفرنسا"
     }
   },
@@ -3557,6 +3773,7 @@
     "emoji": "🇹🇬",
     "emojiU": "U+1F1F9 U+1F1EC",
     "translations": {
+      "en": "Togo",
       "ar": "ليذهب"
     }
   },
@@ -3573,6 +3790,7 @@
     "emoji": "🇹🇭",
     "emojiU": "U+1F1F9 U+1F1ED",
     "translations": {
+      "en": "Thailand",
       "ar": "تايلاند"
     }
   },
@@ -3590,6 +3808,7 @@
     "emoji": "🇹🇯",
     "emojiU": "U+1F1F9 U+1F1EF",
     "translations": {
+      "en": "Tajikistan",
       "ar": "طاجيكستان"
     }
   },
@@ -3606,6 +3825,7 @@
     "emoji": "🇹🇰",
     "emojiU": "U+1F1F9 U+1F1F0",
     "translations": {
+      "en": "Tokelau",
       "ar": "توكيلاو"
     }
   },
@@ -3622,6 +3842,7 @@
     "emoji": "🇹🇱",
     "emojiU": "U+1F1F9 U+1F1F1",
     "translations": {
+      "en": "East Timor",
       "ar": "تيمور الشرقية"
     }
   },
@@ -3639,6 +3860,7 @@
     "emoji": "🇹🇲",
     "emojiU": "U+1F1F9 U+1F1F2",
     "translations": {
+      "en": "Turkmenistan",
       "ar": "تركمانستان"
     }
   },
@@ -3655,6 +3877,7 @@
     "emoji": "🇹🇳",
     "emojiU": "U+1F1F9 U+1F1F3",
     "translations": {
+      "en": "Tunisia",
       "ar": "تونس"
     }
   },
@@ -3672,6 +3895,7 @@
     "emoji": "🇹🇴",
     "emojiU": "U+1F1F9 U+1F1F4",
     "translations": {
+      "en": "Tonga",
       "ar": "تونغا"
     }
   },
@@ -3688,6 +3912,7 @@
     "emoji": "🇹🇷",
     "emojiU": "U+1F1F9 U+1F1F7",
     "translations": {
+      "en": "Turkey",
       "ar": "ديك رومي"
     }
   },
@@ -3704,6 +3929,7 @@
     "emoji": "🇹🇹",
     "emojiU": "U+1F1F9 U+1F1F9",
     "translations": {
+      "en": "Trinidad and Tobago",
       "ar": "ترينداد وتوباغو"
     }
   },
@@ -3720,6 +3946,7 @@
     "emoji": "🇹🇻",
     "emojiU": "U+1F1F9 U+1F1FB",
     "translations": {
+      "en": "Tuvalu",
       "ar": "توفالو"
     }
   },
@@ -3736,6 +3963,7 @@
     "emoji": "🇹🇼",
     "emojiU": "U+1F1F9 U+1F1FC",
     "translations": {
+      "en": "Taiwan",
       "ar": "تايوان"
     }
   },
@@ -3753,6 +3981,7 @@
     "emoji": "🇹🇿",
     "emojiU": "U+1F1F9 U+1F1FF",
     "translations": {
+      "en": "Tanzania",
       "ar": "تنزانيا"
     }
   },
@@ -3769,6 +3998,7 @@
     "emoji": "🇺🇦",
     "emojiU": "U+1F1FA U+1F1E6",
     "translations": {
+      "en": "Ukraine",
       "ar": "أوكرانيا"
     }
   },
@@ -3786,6 +4016,7 @@
     "emoji": "🇺🇬",
     "emojiU": "U+1F1FA U+1F1EC",
     "translations": {
+      "en": "Uganda",
       "ar": "أوغندا"
     }
   },
@@ -3802,6 +4033,7 @@
     "emoji": "🇺🇲",
     "emojiU": "U+1F1FA U+1F1F2",
     "translations": {
+      "en": "U.S. Minor Outlying Islands",
       "ar": "جزر الولايات المتحدة الصغرى النائية"
     }
   },
@@ -3818,6 +4050,7 @@
     "emoji": "🇺🇸",
     "emojiU": "U+1F1FA U+1F1F8",
     "translations": {
+      "en": "United States",
       "ar": "الولايات المتحدة الامريكانية"
     }
   },
@@ -3834,6 +4067,7 @@
     "emoji": "🇺🇾",
     "emojiU": "U+1F1FA U+1F1FE",
     "translations": {
+      "en": "Uruguay",
       "ar": "أوروغواي"
     }
   },
@@ -3851,6 +4085,7 @@
     "emoji": "🇺🇿",
     "emojiU": "U+1F1FA U+1F1FF",
     "translations": {
+      "en": "Uzbekistan",
       "ar": "أوزبكستان"
     }
   },
@@ -3868,6 +4103,7 @@
     "emoji": "🇻🇦",
     "emojiU": "U+1F1FB U+1F1E6",
     "translations": {
+      "en": "Vatican City",
       "ar": "مدينة الفاتيكان"
     }
   },
@@ -3884,6 +4120,7 @@
     "emoji": "🇻🇨",
     "emojiU": "U+1F1FB U+1F1E8",
     "translations": {
+      "en": "Saint Vincent and the Grenadines",
       "ar": "سانت فنسنت وجزر غرينادين"
     }
   },
@@ -3900,6 +4137,7 @@
     "emoji": "🇻🇪",
     "emojiU": "U+1F1FB U+1F1EA",
     "translations": {
+      "en": "Venezuela",
       "ar": "فنزويلا"
     }
   },
@@ -3916,6 +4154,7 @@
     "emoji": "🇻🇬",
     "emojiU": "U+1F1FB U+1F1EC",
     "translations": {
+      "en": "British Virgin Islands",
       "ar": "جزر فيرجن البريطانية"
     }
   },
@@ -3932,6 +4171,7 @@
     "emoji": "🇻🇮",
     "emojiU": "U+1F1FB U+1F1EE",
     "translations": {
+      "en": "U.S. Virgin Islands",
       "ar": "جزر فيرجن الأمريكية"
     }
   },
@@ -3948,6 +4188,7 @@
     "emoji": "🇻🇳",
     "emojiU": "U+1F1FB U+1F1F3",
     "translations": {
+      "en": "Vietnam",
       "ar": "فيتنام"
     }
   },
@@ -3966,6 +4207,7 @@
     "emoji": "🇻🇺",
     "emojiU": "U+1F1FB U+1F1FA",
     "translations": {
+      "en": "Vanuatu",
       "ar": "فانواتو"
     }
   },
@@ -3982,6 +4224,7 @@
     "emoji": "🇼🇫",
     "emojiU": "U+1F1FC U+1F1EB",
     "translations": {
+      "en": "Wallis and Futuna",
       "ar": "واليس وفوتونا"
     }
   },
@@ -3999,6 +4242,7 @@
     "emoji": "🇼🇸",
     "emojiU": "U+1F1FC U+1F1F8",
     "translations": {
+      "en": "Samoa",
       "ar": "ساموا"
     }
   },
@@ -4016,6 +4260,7 @@
     "emoji": "🇽🇰",
     "emojiU": "U+1F1FD U+1F1F0",
     "translations": {
+      "en": "Kosovo",
       "ar": "كوسوفو"
     }
   },
@@ -4032,6 +4277,7 @@
     "emoji": "🇾🇪",
     "emojiU": "U+1F1FE U+1F1EA",
     "translations": {
+      "en": "Yemen",
       "ar": "اليمن"
     }
   },
@@ -4048,6 +4294,7 @@
     "emoji": "🇾🇹",
     "emojiU": "U+1F1FE U+1F1F9",
     "translations": {
+      "en": "Mayotte",
       "ar": "مايوت"
     }
   },
@@ -4073,6 +4320,7 @@
     "emoji": "🇿🇦",
     "emojiU": "U+1F1FF U+1F1E6",
     "translations": {
+      "en": "South Africa",
       "ar": "جنوب أفريقيا"
     }
   },
@@ -4089,6 +4337,7 @@
     "emoji": "🇿🇲",
     "emojiU": "U+1F1FF U+1F1F2",
     "translations": {
+      "en": "Zambia",
       "ar": "زامبيا"
     }
   },
@@ -4107,6 +4356,7 @@
     "emoji": "🇿🇼",
     "emojiU": "U+1F1FF U+1F1FC",
     "translations": {
+      "en": "Zimbabwe",
       "ar": "زيمبابوي"
     }
   }
