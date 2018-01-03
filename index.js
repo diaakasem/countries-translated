@@ -3,6 +3,7 @@
 const translate = require('google-translate-api');
 const _ = require('lodash');
 let countries = require('./countries.json');
+const fs = require('fs');
 
 
 //countries = {'AD': countries.AD};
@@ -19,5 +20,6 @@ Promise.all(
         });
     })
 ).then((allCountries)=> {
-    console.log(allCountries);
+    let json = JSON.stringify(allCountries, null, 2);
+    fs.writeFile('countries-list.json', json);    
 });
