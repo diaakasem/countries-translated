@@ -14,7 +14,8 @@
     "translations": {
       "en": "Andorra",
       "ar": "أندورا"
-    }
+    },
+    "key": "AD"
   },
   {
     "name": "United Arab Emirates",
@@ -31,7 +32,8 @@
     "translations": {
       "en": "United Arab Emirates",
       "ar": "الإمارات العربية المتحدة"
-    }
+    },
+    "key": "AE"
   },
   {
     "name": "Afghanistan",
@@ -50,7 +52,8 @@
     "translations": {
       "en": "Afghanistan",
       "ar": "أفغانستان"
-    }
+    },
+    "key": "AF"
   },
   {
     "name": "Antigua and Barbuda",
@@ -67,7 +70,8 @@
     "translations": {
       "en": "Antigua and Barbuda",
       "ar": "أنتيغوا وبربودا"
-    }
+    },
+    "key": "AG"
   },
   {
     "name": "Anguilla",
@@ -84,7 +88,8 @@
     "translations": {
       "en": "Anguilla",
       "ar": "أنغيلا"
-    }
+    },
+    "key": "AI"
   },
   {
     "name": "Albania",
@@ -101,7 +106,8 @@
     "translations": {
       "en": "Albania",
       "ar": "ألبانيا"
-    }
+    },
+    "key": "AL"
   },
   {
     "name": "Armenia",
@@ -119,7 +125,8 @@
     "translations": {
       "en": "Armenia",
       "ar": "أرمينيا"
-    }
+    },
+    "key": "AM"
   },
   {
     "name": "Angola",
@@ -136,7 +143,8 @@
     "translations": {
       "en": "Angola",
       "ar": "أنغولا"
-    }
+    },
+    "key": "AO"
   },
   {
     "name": "Antarctica",
@@ -151,7 +159,8 @@
     "translations": {
       "en": "Antarctica",
       "ar": "القارة القطبية الجنوبية"
-    }
+    },
+    "key": "AQ"
   },
   {
     "name": "Argentina",
@@ -169,7 +178,8 @@
     "translations": {
       "en": "Argentina",
       "ar": "الأرجنتين"
-    }
+    },
+    "key": "AR"
   },
   {
     "name": "American Samoa",
@@ -187,7 +197,8 @@
     "translations": {
       "en": "American Samoa",
       "ar": "ساموا الأمريكية"
-    }
+    },
+    "key": "AS"
   },
   {
     "name": "Austria",
@@ -204,7 +215,8 @@
     "translations": {
       "en": "Austria",
       "ar": "النمسا"
-    }
+    },
+    "key": "AT"
   },
   {
     "name": "Australia",
@@ -221,7 +233,8 @@
     "translations": {
       "en": "Australia",
       "ar": "أستراليا"
-    }
+    },
+    "key": "AU"
   },
   {
     "name": "Aruba",
@@ -239,7 +252,8 @@
     "translations": {
       "en": "Aruba",
       "ar": "أروبا"
-    }
+    },
+    "key": "AW"
   },
   {
     "name": "Åland",
@@ -256,7 +270,8 @@
     "translations": {
       "en": "Åland",
       "ar": "آلاند"
-    }
+    },
+    "key": "AX"
   },
   {
     "name": "Azerbaijan",
@@ -273,7 +288,8 @@
     "translations": {
       "en": "Azerbaijan",
       "ar": "أذربيجان"
-    }
+    },
+    "key": "AZ"
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -292,7 +308,8 @@
     "translations": {
       "en": "Bosnia and Herzegovina",
       "ar": "البوسنة والهرسك"
-    }
+    },
+    "key": "BA"
   },
   {
     "name": "Barbados",
@@ -309,7 +326,8 @@
     "translations": {
       "en": "Barbados",
       "ar": "بربادوس"
-    }
+    },
+    "key": "BB"
   },
   {
     "name": "Bangladesh",
@@ -326,7 +344,8 @@
     "translations": {
       "en": "Bangladesh",
       "ar": "بنغلاديش"
-    }
+    },
+    "key": "BD"
   },
   {
     "name": "Belgium",
@@ -345,7 +364,8 @@
     "translations": {
       "en": "Belgium",
       "ar": "بلجيكا"
-    }
+    },
+    "key": "BE"
   },
   {
     "name": "Burkina Faso",
@@ -363,7 +383,8 @@
     "translations": {
       "en": "Burkina Faso",
       "ar": "بوركينا فاسو"
-    }
+    },
+    "key": "BF"
   },
   {
     "name": "Bulgaria",
@@ -380,7 +401,8 @@
     "translations": {
       "en": "Bulgaria",
       "ar": "بلغاريا"
-    }
+    },
+    "key": "BG"
   },
   {
     "name": "Bahrain",
@@ -397,7 +419,8 @@
     "translations": {
       "en": "Bahrain",
       "ar": "البحرين"
-    }
+    },
+    "key": "BH"
   },
   {
     "name": "Burundi",
@@ -415,7 +438,8 @@
     "translations": {
       "en": "Burundi",
       "ar": "بوروندي"
-    }
+    },
+    "key": "BI"
   },
   {
     "name": "Benin",
@@ -432,7 +456,8 @@
     "translations": {
       "en": "Benin",
       "ar": "بنين"
-    }
+    },
+    "key": "BJ"
   },
   {
     "name": "Saint Barthélemy",
@@ -449,7 +474,8 @@
     "translations": {
       "en": "Saint Barthélemy",
       "ar": "سانت بارتيليمي"
-    }
+    },
+    "key": "BL"
   },
   {
     "name": "Bermuda",
@@ -466,7 +492,8 @@
     "translations": {
       "en": "Bermuda",
       "ar": "برمودا"
-    }
+    },
+    "key": "BM"
   },
   {
     "name": "Brunei",
@@ -483,7 +510,8 @@
     "translations": {
       "en": "Brunei",
       "ar": "بروناي"
-    }
+    },
+    "key": "BN"
   },
   {
     "name": "Bolivia",
@@ -502,7 +530,8 @@
     "translations": {
       "en": "Bolivia",
       "ar": "بوليفيا"
-    }
+    },
+    "key": "BO"
   },
   {
     "name": "Bonaire",
@@ -519,7 +548,8 @@
     "translations": {
       "en": "Bonaire",
       "ar": "بونير"
-    }
+    },
+    "key": "BQ"
   },
   {
     "name": "Brazil",
@@ -536,7 +566,8 @@
     "translations": {
       "en": "Brazil",
       "ar": "البرازيل"
-    }
+    },
+    "key": "BR"
   },
   {
     "name": "Bahamas",
@@ -553,7 +584,8 @@
     "translations": {
       "en": "Bahamas",
       "ar": "الباهاما"
-    }
+    },
+    "key": "BS"
   },
   {
     "name": "Bhutan",
@@ -570,7 +602,8 @@
     "translations": {
       "en": "Bhutan",
       "ar": "بوتان"
-    }
+    },
+    "key": "BT"
   },
   {
     "name": "Bouvet Island",
@@ -585,7 +618,8 @@
     "translations": {
       "en": "Bouvet Island",
       "ar": "جزيرة بوفيت"
-    }
+    },
+    "key": "BV"
   },
   {
     "name": "Botswana",
@@ -603,7 +637,8 @@
     "translations": {
       "en": "Botswana",
       "ar": "بوتسوانا"
-    }
+    },
+    "key": "BW"
   },
   {
     "name": "Belarus",
@@ -621,7 +656,8 @@
     "translations": {
       "en": "Belarus",
       "ar": "روسيا البيضاء"
-    }
+    },
+    "key": "BY"
   },
   {
     "name": "Belize",
@@ -639,7 +675,8 @@
     "translations": {
       "en": "Belize",
       "ar": "بليز"
-    }
+    },
+    "key": "BZ"
   },
   {
     "name": "Canada",
@@ -657,7 +694,8 @@
     "translations": {
       "en": "Canada",
       "ar": "كندا"
-    }
+    },
+    "key": "CA"
   },
   {
     "name": "Cocos [Keeling] Islands",
@@ -674,7 +712,8 @@
     "translations": {
       "en": "Cocos [Keeling] Islands",
       "ar": "جزر كوكوس [كيلينغ]"
-    }
+    },
+    "key": "CC"
   },
   {
     "name": "Democratic Republic of the Congo",
@@ -695,7 +734,8 @@
     "translations": {
       "en": "Democratic Republic of the Congo",
       "ar": "جمهورية الكونغو الديموقراطية"
-    }
+    },
+    "key": "CD"
   },
   {
     "name": "Central African Republic",
@@ -713,7 +753,8 @@
     "translations": {
       "en": "Central African Republic",
       "ar": "جمهورية افريقيا الوسطى"
-    }
+    },
+    "key": "CF"
   },
   {
     "name": "Republic of the Congo",
@@ -731,7 +772,8 @@
     "translations": {
       "en": "Republic of the Congo",
       "ar": "جمهورية الكونغو"
-    }
+    },
+    "key": "CG"
   },
   {
     "name": "Switzerland",
@@ -750,7 +792,8 @@
     "translations": {
       "en": "Switzerland",
       "ar": "سويسرا"
-    }
+    },
+    "key": "CH"
   },
   {
     "name": "Ivory Coast",
@@ -767,7 +810,8 @@
     "translations": {
       "en": "Ivory Coast",
       "ar": "ساحل العاج"
-    }
+    },
+    "key": "CI"
   },
   {
     "name": "Cook Islands",
@@ -784,7 +828,8 @@
     "translations": {
       "en": "Cook Islands",
       "ar": "جزر كوك"
-    }
+    },
+    "key": "CK"
   },
   {
     "name": "Chile",
@@ -801,7 +846,8 @@
     "translations": {
       "en": "Chile",
       "ar": "تشيلي"
-    }
+    },
+    "key": "CL"
   },
   {
     "name": "Cameroon",
@@ -819,7 +865,8 @@
     "translations": {
       "en": "Cameroon",
       "ar": "الكاميرون"
-    }
+    },
+    "key": "CM"
   },
   {
     "name": "China",
@@ -836,7 +883,8 @@
     "translations": {
       "en": "China",
       "ar": "الصين"
-    }
+    },
+    "key": "CN"
   },
   {
     "name": "Colombia",
@@ -853,7 +901,8 @@
     "translations": {
       "en": "Colombia",
       "ar": "كولومبيا"
-    }
+    },
+    "key": "CO"
   },
   {
     "name": "Costa Rica",
@@ -870,7 +919,8 @@
     "translations": {
       "en": "Costa Rica",
       "ar": "كوستاريكا"
-    }
+    },
+    "key": "CR"
   },
   {
     "name": "Cuba",
@@ -887,7 +937,8 @@
     "translations": {
       "en": "Cuba",
       "ar": "كوبا"
-    }
+    },
+    "key": "CU"
   },
   {
     "name": "Cape Verde",
@@ -904,7 +955,8 @@
     "translations": {
       "en": "Cape Verde",
       "ar": "الرأس الأخضر"
-    }
+    },
+    "key": "CV"
   },
   {
     "name": "Curacao",
@@ -923,7 +975,8 @@
     "translations": {
       "en": "Curacao",
       "ar": "كوراكاو"
-    }
+    },
+    "key": "CW"
   },
   {
     "name": "Christmas Island",
@@ -940,7 +993,8 @@
     "translations": {
       "en": "Christmas Island",
       "ar": "جزيرة الكريسماس"
-    }
+    },
+    "key": "CX"
   },
   {
     "name": "Cyprus",
@@ -959,7 +1013,8 @@
     "translations": {
       "en": "Cyprus",
       "ar": "قبرص"
-    }
+    },
+    "key": "CY"
   },
   {
     "name": "Czech Republic",
@@ -977,7 +1032,8 @@
     "translations": {
       "en": "Czech Republic",
       "ar": "جمهورية التشيك"
-    }
+    },
+    "key": "CZ"
   },
   {
     "name": "Germany",
@@ -994,7 +1050,8 @@
     "translations": {
       "en": "Germany",
       "ar": "ألمانيا"
-    }
+    },
+    "key": "DE"
   },
   {
     "name": "Djibouti",
@@ -1012,7 +1069,8 @@
     "translations": {
       "en": "Djibouti",
       "ar": "جيبوتي"
-    }
+    },
+    "key": "DJ"
   },
   {
     "name": "Denmark",
@@ -1029,7 +1087,8 @@
     "translations": {
       "en": "Denmark",
       "ar": "الدنمارك"
-    }
+    },
+    "key": "DK"
   },
   {
     "name": "Dominica",
@@ -1046,7 +1105,8 @@
     "translations": {
       "en": "Dominica",
       "ar": "دومينيكا"
-    }
+    },
+    "key": "DM"
   },
   {
     "name": "Dominican Republic",
@@ -1063,7 +1123,8 @@
     "translations": {
       "en": "Dominican Republic",
       "ar": "جمهورية الدومنيكان"
-    }
+    },
+    "key": "DO"
   },
   {
     "name": "Algeria",
@@ -1080,7 +1141,8 @@
     "translations": {
       "en": "Algeria",
       "ar": "الجزائر"
-    }
+    },
+    "key": "DZ"
   },
   {
     "name": "Ecuador",
@@ -1097,7 +1159,8 @@
     "translations": {
       "en": "Ecuador",
       "ar": "الإكوادور"
-    }
+    },
+    "key": "EC"
   },
   {
     "name": "Estonia",
@@ -1114,7 +1177,8 @@
     "translations": {
       "en": "Estonia",
       "ar": "استونيا"
-    }
+    },
+    "key": "EE"
   },
   {
     "name": "Egypt",
@@ -1131,7 +1195,8 @@
     "translations": {
       "en": "Egypt",
       "ar": "مصر"
-    }
+    },
+    "key": "EG"
   },
   {
     "name": "Western Sahara",
@@ -1148,7 +1213,8 @@
     "translations": {
       "en": "Western Sahara",
       "ar": "الصحراء الغربية"
-    }
+    },
+    "key": "EH"
   },
   {
     "name": "Eritrea",
@@ -1167,7 +1233,8 @@
     "translations": {
       "en": "Eritrea",
       "ar": "إريتريا"
-    }
+    },
+    "key": "ER"
   },
   {
     "name": "Spain",
@@ -1188,7 +1255,8 @@
     "translations": {
       "en": "Spain",
       "ar": "إسبانيا"
-    }
+    },
+    "key": "ES"
   },
   {
     "name": "Ethiopia",
@@ -1205,7 +1273,8 @@
     "translations": {
       "en": "Ethiopia",
       "ar": "أثيوبيا"
-    }
+    },
+    "key": "ET"
   },
   {
     "name": "Finland",
@@ -1223,7 +1292,8 @@
     "translations": {
       "en": "Finland",
       "ar": "فنلندا"
-    }
+    },
+    "key": "FI"
   },
   {
     "name": "Fiji",
@@ -1243,7 +1313,8 @@
     "translations": {
       "en": "Fiji",
       "ar": "فيجي"
-    }
+    },
+    "key": "FJ"
   },
   {
     "name": "Falkland Islands",
@@ -1260,7 +1331,8 @@
     "translations": {
       "en": "Falkland Islands",
       "ar": "جزر فوكلاند"
-    }
+    },
+    "key": "FK"
   },
   {
     "name": "Micronesia",
@@ -1277,7 +1349,8 @@
     "translations": {
       "en": "Micronesia",
       "ar": "ميكرونيزيا"
-    }
+    },
+    "key": "FM"
   },
   {
     "name": "Faroe Islands",
@@ -1294,7 +1367,8 @@
     "translations": {
       "en": "Faroe Islands",
       "ar": "جزر صناعية"
-    }
+    },
+    "key": "FO"
   },
   {
     "name": "France",
@@ -1311,7 +1385,8 @@
     "translations": {
       "en": "France",
       "ar": "فرنسا"
-    }
+    },
+    "key": "FR"
   },
   {
     "name": "Gabon",
@@ -1328,7 +1403,8 @@
     "translations": {
       "en": "Gabon",
       "ar": "الغابون"
-    }
+    },
+    "key": "GA"
   },
   {
     "name": "United Kingdom",
@@ -1345,7 +1421,8 @@
     "translations": {
       "en": "United Kingdom",
       "ar": "المملكة المتحدة"
-    }
+    },
+    "key": "GB"
   },
   {
     "name": "Grenada",
@@ -1362,7 +1439,8 @@
     "translations": {
       "en": "Grenada",
       "ar": "غرينادا"
-    }
+    },
+    "key": "GD"
   },
   {
     "name": "Georgia",
@@ -1379,7 +1457,8 @@
     "translations": {
       "en": "Georgia",
       "ar": "جورجيا"
-    }
+    },
+    "key": "GE"
   },
   {
     "name": "French Guiana",
@@ -1396,7 +1475,8 @@
     "translations": {
       "en": "French Guiana",
       "ar": "غيانا الفرنسية"
-    }
+    },
+    "key": "GF"
   },
   {
     "name": "Guernsey",
@@ -1414,7 +1494,8 @@
     "translations": {
       "en": "Guernsey",
       "ar": "غيرنسي"
-    }
+    },
+    "key": "GG"
   },
   {
     "name": "Ghana",
@@ -1431,7 +1512,8 @@
     "translations": {
       "en": "Ghana",
       "ar": "غانا"
-    }
+    },
+    "key": "GH"
   },
   {
     "name": "Gibraltar",
@@ -1448,7 +1530,8 @@
     "translations": {
       "en": "Gibraltar",
       "ar": "جبل طارق"
-    }
+    },
+    "key": "GI"
   },
   {
     "name": "Greenland",
@@ -1465,7 +1548,8 @@
     "translations": {
       "en": "Greenland",
       "ar": "الأرض الخضراء"
-    }
+    },
+    "key": "GL"
   },
   {
     "name": "Gambia",
@@ -1482,7 +1566,8 @@
     "translations": {
       "en": "Gambia",
       "ar": "غامبيا"
-    }
+    },
+    "key": "GM"
   },
   {
     "name": "Guinea",
@@ -1500,7 +1585,8 @@
     "translations": {
       "en": "Guinea",
       "ar": "غينيا"
-    }
+    },
+    "key": "GN"
   },
   {
     "name": "Guadeloupe",
@@ -1517,7 +1603,8 @@
     "translations": {
       "en": "Guadeloupe",
       "ar": "جوادلوب"
-    }
+    },
+    "key": "GP"
   },
   {
     "name": "Equatorial Guinea",
@@ -1535,7 +1622,8 @@
     "translations": {
       "en": "Equatorial Guinea",
       "ar": "غينيا الإستوائية"
-    }
+    },
+    "key": "GQ"
   },
   {
     "name": "Greece",
@@ -1552,7 +1640,8 @@
     "translations": {
       "en": "Greece",
       "ar": "اليونان"
-    }
+    },
+    "key": "GR"
   },
   {
     "name": "South Georgia and the South Sandwich Islands",
@@ -1569,7 +1658,8 @@
     "translations": {
       "en": "South Georgia and the South Sandwich Islands",
       "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
-    }
+    },
+    "key": "GS"
   },
   {
     "name": "Guatemala",
@@ -1586,7 +1676,8 @@
     "translations": {
       "en": "Guatemala",
       "ar": "غواتيمالا"
-    }
+    },
+    "key": "GT"
   },
   {
     "name": "Guam",
@@ -1605,7 +1696,8 @@
     "translations": {
       "en": "Guam",
       "ar": "غوام"
-    }
+    },
+    "key": "GU"
   },
   {
     "name": "Guinea-Bissau",
@@ -1622,7 +1714,8 @@
     "translations": {
       "en": "Guinea-Bissau",
       "ar": "غينيا بيساو"
-    }
+    },
+    "key": "GW"
   },
   {
     "name": "Guyana",
@@ -1639,7 +1732,8 @@
     "translations": {
       "en": "Guyana",
       "ar": "غيانا"
-    }
+    },
+    "key": "GY"
   },
   {
     "name": "Hong Kong",
@@ -1657,7 +1751,8 @@
     "translations": {
       "en": "Hong Kong",
       "ar": "هونغ كونغ"
-    }
+    },
+    "key": "HK"
   },
   {
     "name": "Heard Island and McDonald Islands",
@@ -1674,7 +1769,8 @@
     "translations": {
       "en": "Heard Island and McDonald Islands",
       "ar": "قلب الجزيرة وجزر ماكدونالز"
-    }
+    },
+    "key": "HM"
   },
   {
     "name": "Honduras",
@@ -1691,7 +1787,8 @@
     "translations": {
       "en": "Honduras",
       "ar": "هندوراس"
-    }
+    },
+    "key": "HN"
   },
   {
     "name": "Croatia",
@@ -1708,7 +1805,8 @@
     "translations": {
       "en": "Croatia",
       "ar": "كرواتيا"
-    }
+    },
+    "key": "HR"
   },
   {
     "name": "Haiti",
@@ -1726,7 +1824,8 @@
     "translations": {
       "en": "Haiti",
       "ar": "هايتي"
-    }
+    },
+    "key": "HT"
   },
   {
     "name": "Hungary",
@@ -1743,7 +1842,8 @@
     "translations": {
       "en": "Hungary",
       "ar": "اليونان"
-    }
+    },
+    "key": "HU"
   },
   {
     "name": "Indonesia",
@@ -1760,7 +1860,8 @@
     "translations": {
       "en": "Indonesia",
       "ar": "أندونيسيا"
-    }
+    },
+    "key": "ID"
   },
   {
     "name": "Ireland",
@@ -1778,7 +1879,8 @@
     "translations": {
       "en": "Ireland",
       "ar": "أيرلندا"
-    }
+    },
+    "key": "IE"
   },
   {
     "name": "Israel",
@@ -1796,7 +1898,8 @@
     "translations": {
       "en": "Israel",
       "ar": "إسرائيل"
-    }
+    },
+    "key": "IL"
   },
   {
     "name": "Isle of Man",
@@ -1814,7 +1917,8 @@
     "translations": {
       "en": "Isle of Man",
       "ar": "جزيرة آيل أوف مان"
-    }
+    },
+    "key": "IM"
   },
   {
     "name": "India",
@@ -1832,7 +1936,8 @@
     "translations": {
       "en": "India",
       "ar": "الهند"
-    }
+    },
+    "key": "IN"
   },
   {
     "name": "British Indian Ocean Territory",
@@ -1849,7 +1954,8 @@
     "translations": {
       "en": "British Indian Ocean Territory",
       "ar": "إقليم المحيط البريطاني الهندي"
-    }
+    },
+    "key": "IO"
   },
   {
     "name": "Iraq",
@@ -1867,7 +1973,8 @@
     "translations": {
       "en": "Iraq",
       "ar": "العراق"
-    }
+    },
+    "key": "IQ"
   },
   {
     "name": "Iran",
@@ -1884,7 +1991,8 @@
     "translations": {
       "en": "Iran",
       "ar": "إيران"
-    }
+    },
+    "key": "IR"
   },
   {
     "name": "Iceland",
@@ -1901,7 +2009,8 @@
     "translations": {
       "en": "Iceland",
       "ar": "أيسلندا"
-    }
+    },
+    "key": "IS"
   },
   {
     "name": "Italy",
@@ -1918,7 +2027,8 @@
     "translations": {
       "en": "Italy",
       "ar": "إيطاليا"
-    }
+    },
+    "key": "IT"
   },
   {
     "name": "Jersey",
@@ -1936,7 +2046,8 @@
     "translations": {
       "en": "Jersey",
       "ar": "جيرسي"
-    }
+    },
+    "key": "JE"
   },
   {
     "name": "Jamaica",
@@ -1953,7 +2064,8 @@
     "translations": {
       "en": "Jamaica",
       "ar": "جامايكا"
-    }
+    },
+    "key": "JM"
   },
   {
     "name": "Jordan",
@@ -1970,7 +2082,8 @@
     "translations": {
       "en": "Jordan",
       "ar": "الأردن"
-    }
+    },
+    "key": "JO"
   },
   {
     "name": "Japan",
@@ -1987,7 +2100,8 @@
     "translations": {
       "en": "Japan",
       "ar": "اليابان"
-    }
+    },
+    "key": "JP"
   },
   {
     "name": "Kenya",
@@ -2005,7 +2119,8 @@
     "translations": {
       "en": "Kenya",
       "ar": "كينيا"
-    }
+    },
+    "key": "KE"
   },
   {
     "name": "Kyrgyzstan",
@@ -2023,7 +2138,8 @@
     "translations": {
       "en": "Kyrgyzstan",
       "ar": "قرغيزستان"
-    }
+    },
+    "key": "KG"
   },
   {
     "name": "Cambodia",
@@ -2040,7 +2156,8 @@
     "translations": {
       "en": "Cambodia",
       "ar": "كمبوديا"
-    }
+    },
+    "key": "KH"
   },
   {
     "name": "Kiribati",
@@ -2057,7 +2174,8 @@
     "translations": {
       "en": "Kiribati",
       "ar": "كيريباس"
-    }
+    },
+    "key": "KI"
   },
   {
     "name": "Comoros",
@@ -2075,7 +2193,8 @@
     "translations": {
       "en": "Comoros",
       "ar": "جزر القمر"
-    }
+    },
+    "key": "KM"
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -2092,7 +2211,8 @@
     "translations": {
       "en": "Saint Kitts and Nevis",
       "ar": "سانت كيتس ونيفيس"
-    }
+    },
+    "key": "KN"
   },
   {
     "name": "North Korea",
@@ -2109,7 +2229,8 @@
     "translations": {
       "en": "North Korea",
       "ar": "كوريا الشمالية"
-    }
+    },
+    "key": "KP"
   },
   {
     "name": "South Korea",
@@ -2126,7 +2247,8 @@
     "translations": {
       "en": "South Korea",
       "ar": "كوريا الجنوبية"
-    }
+    },
+    "key": "KR"
   },
   {
     "name": "Kuwait",
@@ -2143,7 +2265,8 @@
     "translations": {
       "en": "Kuwait",
       "ar": "الكويت"
-    }
+    },
+    "key": "KW"
   },
   {
     "name": "Cayman Islands",
@@ -2160,7 +2283,8 @@
     "translations": {
       "en": "Cayman Islands",
       "ar": "جزر كايمان"
-    }
+    },
+    "key": "KY"
   },
   {
     "name": "Kazakhstan",
@@ -2178,7 +2302,8 @@
     "translations": {
       "en": "Kazakhstan",
       "ar": "كازاخستان"
-    }
+    },
+    "key": "KZ"
   },
   {
     "name": "Laos",
@@ -2195,7 +2320,8 @@
     "translations": {
       "en": "Laos",
       "ar": "لاوس"
-    }
+    },
+    "key": "LA"
   },
   {
     "name": "Lebanon",
@@ -2213,7 +2339,8 @@
     "translations": {
       "en": "Lebanon",
       "ar": "لبنان"
-    }
+    },
+    "key": "LB"
   },
   {
     "name": "Saint Lucia",
@@ -2230,7 +2357,8 @@
     "translations": {
       "en": "Saint Lucia",
       "ar": "القديسة لوسيا"
-    }
+    },
+    "key": "LC"
   },
   {
     "name": "Liechtenstein",
@@ -2247,7 +2375,8 @@
     "translations": {
       "en": "Liechtenstein",
       "ar": "ليختنشتاين"
-    }
+    },
+    "key": "LI"
   },
   {
     "name": "Sri Lanka",
@@ -2265,7 +2394,8 @@
     "translations": {
       "en": "Sri Lanka",
       "ar": "سيريلانكا"
-    }
+    },
+    "key": "LK"
   },
   {
     "name": "Liberia",
@@ -2282,7 +2412,8 @@
     "translations": {
       "en": "Liberia",
       "ar": "ليبيريا"
-    }
+    },
+    "key": "LR"
   },
   {
     "name": "Lesotho",
@@ -2300,7 +2431,8 @@
     "translations": {
       "en": "Lesotho",
       "ar": "ليسوتو"
-    }
+    },
+    "key": "LS"
   },
   {
     "name": "Lithuania",
@@ -2317,7 +2449,8 @@
     "translations": {
       "en": "Lithuania",
       "ar": "ليتوانيا"
-    }
+    },
+    "key": "LT"
   },
   {
     "name": "Luxembourg",
@@ -2336,7 +2469,8 @@
     "translations": {
       "en": "Luxembourg",
       "ar": "لوكسمبورغ"
-    }
+    },
+    "key": "LU"
   },
   {
     "name": "Latvia",
@@ -2353,7 +2487,8 @@
     "translations": {
       "en": "Latvia",
       "ar": "لاتفيا"
-    }
+    },
+    "key": "LV"
   },
   {
     "name": "Libya",
@@ -2370,7 +2505,8 @@
     "translations": {
       "en": "Libya",
       "ar": "ليبيا"
-    }
+    },
+    "key": "LY"
   },
   {
     "name": "Morocco",
@@ -2387,7 +2523,8 @@
     "translations": {
       "en": "Morocco",
       "ar": "المغرب"
-    }
+    },
+    "key": "MA"
   },
   {
     "name": "Monaco",
@@ -2404,7 +2541,8 @@
     "translations": {
       "en": "Monaco",
       "ar": "موناكو"
-    }
+    },
+    "key": "MC"
   },
   {
     "name": "Moldova",
@@ -2421,7 +2559,8 @@
     "translations": {
       "en": "Moldova",
       "ar": "مولدافيا"
-    }
+    },
+    "key": "MD"
   },
   {
     "name": "Montenegro",
@@ -2441,7 +2580,8 @@
     "translations": {
       "en": "Montenegro",
       "ar": "الجبل الأسود"
-    }
+    },
+    "key": "ME"
   },
   {
     "name": "Saint Martin",
@@ -2460,7 +2600,8 @@
     "translations": {
       "en": "Saint Martin",
       "ar": "القديس مارتن"
-    }
+    },
+    "key": "MF"
   },
   {
     "name": "Madagascar",
@@ -2478,7 +2619,8 @@
     "translations": {
       "en": "Madagascar",
       "ar": "مدغشقر"
-    }
+    },
+    "key": "MG"
   },
   {
     "name": "Marshall Islands",
@@ -2496,7 +2638,8 @@
     "translations": {
       "en": "Marshall Islands",
       "ar": "جزر مارشال"
-    }
+    },
+    "key": "MH"
   },
   {
     "name": "Macedonia",
@@ -2513,7 +2656,8 @@
     "translations": {
       "en": "Macedonia",
       "ar": "مقدونيا"
-    }
+    },
+    "key": "MK"
   },
   {
     "name": "Mali",
@@ -2530,7 +2674,8 @@
     "translations": {
       "en": "Mali",
       "ar": "مالي"
-    }
+    },
+    "key": "ML"
   },
   {
     "name": "Myanmar [Burma]",
@@ -2547,7 +2692,8 @@
     "translations": {
       "en": "Myanmar [Burma]",
       "ar": "ميانمار [بورما]"
-    }
+    },
+    "key": "MM"
   },
   {
     "name": "Mongolia",
@@ -2564,7 +2710,8 @@
     "translations": {
       "en": "Mongolia",
       "ar": "منغوليا"
-    }
+    },
+    "key": "MN"
   },
   {
     "name": "Macao",
@@ -2582,7 +2729,8 @@
     "translations": {
       "en": "Macao",
       "ar": "ماكاو"
-    }
+    },
+    "key": "MO"
   },
   {
     "name": "Northern Mariana Islands",
@@ -2600,7 +2748,8 @@
     "translations": {
       "en": "Northern Mariana Islands",
       "ar": "جزر مريانا الشمالية"
-    }
+    },
+    "key": "MP"
   },
   {
     "name": "Martinique",
@@ -2617,7 +2766,8 @@
     "translations": {
       "en": "Martinique",
       "ar": "مارتينيك"
-    }
+    },
+    "key": "MQ"
   },
   {
     "name": "Mauritania",
@@ -2634,7 +2784,8 @@
     "translations": {
       "en": "Mauritania",
       "ar": "موريتانيا"
-    }
+    },
+    "key": "MR"
   },
   {
     "name": "Montserrat",
@@ -2651,7 +2802,8 @@
     "translations": {
       "en": "Montserrat",
       "ar": "مونتسيرات"
-    }
+    },
+    "key": "MS"
   },
   {
     "name": "Malta",
@@ -2669,7 +2821,8 @@
     "translations": {
       "en": "Malta",
       "ar": "مالطا"
-    }
+    },
+    "key": "MT"
   },
   {
     "name": "Mauritius",
@@ -2686,7 +2839,8 @@
     "translations": {
       "en": "Mauritius",
       "ar": "موريشيوس"
-    }
+    },
+    "key": "MU"
   },
   {
     "name": "Maldives",
@@ -2703,7 +2857,8 @@
     "translations": {
       "en": "Maldives",
       "ar": "جزر المالديف"
-    }
+    },
+    "key": "MV"
   },
   {
     "name": "Malawi",
@@ -2721,7 +2876,8 @@
     "translations": {
       "en": "Malawi",
       "ar": "مالاوي"
-    }
+    },
+    "key": "MW"
   },
   {
     "name": "Mexico",
@@ -2738,7 +2894,8 @@
     "translations": {
       "en": "Mexico",
       "ar": "المكسيك"
-    }
+    },
+    "key": "MX"
   },
   {
     "name": "Malaysia",
@@ -2753,7 +2910,8 @@
     "translations": {
       "en": "Malaysia",
       "ar": "ماليزيا"
-    }
+    },
+    "key": "MY"
   },
   {
     "name": "Mozambique",
@@ -2770,7 +2928,8 @@
     "translations": {
       "en": "Mozambique",
       "ar": "موزمبيق"
-    }
+    },
+    "key": "MZ"
   },
   {
     "name": "Namibia",
@@ -2788,7 +2947,8 @@
     "translations": {
       "en": "Namibia",
       "ar": "ناميبيا"
-    }
+    },
+    "key": "NA"
   },
   {
     "name": "New Caledonia",
@@ -2805,7 +2965,8 @@
     "translations": {
       "en": "New Caledonia",
       "ar": "كاليدونيا الجديدة"
-    }
+    },
+    "key": "NC"
   },
   {
     "name": "Niger",
@@ -2822,7 +2983,8 @@
     "translations": {
       "en": "Niger",
       "ar": "النيجر"
-    }
+    },
+    "key": "NE"
   },
   {
     "name": "Norfolk Island",
@@ -2839,7 +3001,8 @@
     "translations": {
       "en": "Norfolk Island",
       "ar": "جزيرة نورفولك"
-    }
+    },
+    "key": "NF"
   },
   {
     "name": "Nigeria",
@@ -2856,7 +3019,8 @@
     "translations": {
       "en": "Nigeria",
       "ar": "نيجيريا"
-    }
+    },
+    "key": "NG"
   },
   {
     "name": "Nicaragua",
@@ -2873,7 +3037,8 @@
     "translations": {
       "en": "Nicaragua",
       "ar": "نيكاراغوا"
-    }
+    },
+    "key": "NI"
   },
   {
     "name": "Netherlands",
@@ -2890,7 +3055,8 @@
     "translations": {
       "en": "Netherlands",
       "ar": "هولندا"
-    }
+    },
+    "key": "NL"
   },
   {
     "name": "Norway",
@@ -2909,7 +3075,8 @@
     "translations": {
       "en": "Norway",
       "ar": "النرويج"
-    }
+    },
+    "key": "NO"
   },
   {
     "name": "Nepal",
@@ -2926,7 +3093,8 @@
     "translations": {
       "en": "Nepal",
       "ar": "نيبال"
-    }
+    },
+    "key": "NP"
   },
   {
     "name": "Nauru",
@@ -2944,7 +3112,8 @@
     "translations": {
       "en": "Nauru",
       "ar": "ناورو"
-    }
+    },
+    "key": "NR"
   },
   {
     "name": "Niue",
@@ -2961,7 +3130,8 @@
     "translations": {
       "en": "Niue",
       "ar": "نيوي"
-    }
+    },
+    "key": "NU"
   },
   {
     "name": "New Zealand",
@@ -2979,7 +3149,8 @@
     "translations": {
       "en": "New Zealand",
       "ar": "نيوزيلاندا"
-    }
+    },
+    "key": "NZ"
   },
   {
     "name": "Oman",
@@ -2996,7 +3167,8 @@
     "translations": {
       "en": "Oman",
       "ar": "عمان"
-    }
+    },
+    "key": "OM"
   },
   {
     "name": "Panama",
@@ -3013,7 +3185,8 @@
     "translations": {
       "en": "Panama",
       "ar": "بناما"
-    }
+    },
+    "key": "PA"
   },
   {
     "name": "Peru",
@@ -3030,7 +3203,8 @@
     "translations": {
       "en": "Peru",
       "ar": "بيرو"
-    }
+    },
+    "key": "PE"
   },
   {
     "name": "French Polynesia",
@@ -3047,7 +3221,8 @@
     "translations": {
       "en": "French Polynesia",
       "ar": "بولينيزيا الفرنسية"
-    }
+    },
+    "key": "PF"
   },
   {
     "name": "Papua New Guinea",
@@ -3064,7 +3239,8 @@
     "translations": {
       "en": "Papua New Guinea",
       "ar": "بابوا غينيا الجديدة"
-    }
+    },
+    "key": "PG"
   },
   {
     "name": "Philippines",
@@ -3081,7 +3257,8 @@
     "translations": {
       "en": "Philippines",
       "ar": "الفلبين"
-    }
+    },
+    "key": "PH"
   },
   {
     "name": "Pakistan",
@@ -3099,7 +3276,8 @@
     "translations": {
       "en": "Pakistan",
       "ar": "باكستان"
-    }
+    },
+    "key": "PK"
   },
   {
     "name": "Poland",
@@ -3116,7 +3294,8 @@
     "translations": {
       "en": "Poland",
       "ar": "بولندا"
-    }
+    },
+    "key": "PL"
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -3133,7 +3312,8 @@
     "translations": {
       "en": "Saint Pierre and Miquelon",
       "ar": "سانت بيير وميكلون"
-    }
+    },
+    "key": "PM"
   },
   {
     "name": "Pitcairn Islands",
@@ -3150,7 +3330,8 @@
     "translations": {
       "en": "Pitcairn Islands",
       "ar": "جزر بيتكيرن"
-    }
+    },
+    "key": "PN"
   },
   {
     "name": "Puerto Rico",
@@ -3168,7 +3349,8 @@
     "translations": {
       "en": "Puerto Rico",
       "ar": "بورتوريكو"
-    }
+    },
+    "key": "PR"
   },
   {
     "name": "Palestine",
@@ -3185,7 +3367,8 @@
     "translations": {
       "en": "Palestine",
       "ar": "فلسطين"
-    }
+    },
+    "key": "PS"
   },
   {
     "name": "Portugal",
@@ -3202,7 +3385,8 @@
     "translations": {
       "en": "Portugal",
       "ar": "البرتغال"
-    }
+    },
+    "key": "PT"
   },
   {
     "name": "Palau",
@@ -3219,7 +3403,8 @@
     "translations": {
       "en": "Palau",
       "ar": "بالاو"
-    }
+    },
+    "key": "PW"
   },
   {
     "name": "Paraguay",
@@ -3237,7 +3422,8 @@
     "translations": {
       "en": "Paraguay",
       "ar": "باراغواي"
-    }
+    },
+    "key": "PY"
   },
   {
     "name": "Qatar",
@@ -3254,7 +3440,8 @@
     "translations": {
       "en": "Qatar",
       "ar": "دولة قطر"
-    }
+    },
+    "key": "QA"
   },
   {
     "name": "Réunion",
@@ -3271,7 +3458,8 @@
     "translations": {
       "en": "Réunion",
       "ar": "لقاء"
-    }
+    },
+    "key": "RE"
   },
   {
     "name": "Romania",
@@ -3288,7 +3476,8 @@
     "translations": {
       "en": "Romania",
       "ar": "رومانيا"
-    }
+    },
+    "key": "RO"
   },
   {
     "name": "Serbia",
@@ -3305,7 +3494,8 @@
     "translations": {
       "en": "Serbia",
       "ar": "صربيا"
-    }
+    },
+    "key": "RS"
   },
   {
     "name": "Russia",
@@ -3322,7 +3512,8 @@
     "translations": {
       "en": "Russia",
       "ar": "روسيا"
-    }
+    },
+    "key": "RU"
   },
   {
     "name": "Rwanda",
@@ -3341,7 +3532,8 @@
     "translations": {
       "en": "Rwanda",
       "ar": "رواندا"
-    }
+    },
+    "key": "RW"
   },
   {
     "name": "Saudi Arabia",
@@ -3358,7 +3550,8 @@
     "translations": {
       "en": "Saudi Arabia",
       "ar": "سعودي عربية"
-    }
+    },
+    "key": "SA"
   },
   {
     "name": "Solomon Islands",
@@ -3375,7 +3568,8 @@
     "translations": {
       "en": "Solomon Islands",
       "ar": "جزر سليمان"
-    }
+    },
+    "key": "SB"
   },
   {
     "name": "Seychelles",
@@ -3393,7 +3587,8 @@
     "translations": {
       "en": "Seychelles",
       "ar": "سيشيل"
-    }
+    },
+    "key": "SC"
   },
   {
     "name": "Sudan",
@@ -3411,7 +3606,8 @@
     "translations": {
       "en": "Sudan",
       "ar": "سودان"
-    }
+    },
+    "key": "SD"
   },
   {
     "name": "Sweden",
@@ -3428,7 +3624,8 @@
     "translations": {
       "en": "Sweden",
       "ar": "السويد"
-    }
+    },
+    "key": "SE"
   },
   {
     "name": "Singapore",
@@ -3448,7 +3645,8 @@
     "translations": {
       "en": "Singapore",
       "ar": "سنغافورة"
-    }
+    },
+    "key": "SG"
   },
   {
     "name": "Saint Helena",
@@ -3465,7 +3663,8 @@
     "translations": {
       "en": "Saint Helena",
       "ar": "سانت هيلانة"
-    }
+    },
+    "key": "SH"
   },
   {
     "name": "Slovenia",
@@ -3482,7 +3681,8 @@
     "translations": {
       "en": "Slovenia",
       "ar": "سلوفينيا"
-    }
+    },
+    "key": "SI"
   },
   {
     "name": "Svalbard and Jan Mayen",
@@ -3499,7 +3699,8 @@
     "translations": {
       "en": "Svalbard and Jan Mayen",
       "ar": "سفالبارد وجان ماين"
-    }
+    },
+    "key": "SJ"
   },
   {
     "name": "Slovakia",
@@ -3516,7 +3717,8 @@
     "translations": {
       "en": "Slovakia",
       "ar": "سلوفاكيا"
-    }
+    },
+    "key": "SK"
   },
   {
     "name": "Sierra Leone",
@@ -3533,7 +3735,8 @@
     "translations": {
       "en": "Sierra Leone",
       "ar": "سيراليون"
-    }
+    },
+    "key": "SL"
   },
   {
     "name": "San Marino",
@@ -3550,7 +3753,8 @@
     "translations": {
       "en": "San Marino",
       "ar": "سان مارينو"
-    }
+    },
+    "key": "SM"
   },
   {
     "name": "Senegal",
@@ -3567,7 +3771,8 @@
     "translations": {
       "en": "Senegal",
       "ar": "السنغال"
-    }
+    },
+    "key": "SN"
   },
   {
     "name": "Somalia",
@@ -3585,7 +3790,8 @@
     "translations": {
       "en": "Somalia",
       "ar": "الصومال"
-    }
+    },
+    "key": "SO"
   },
   {
     "name": "Suriname",
@@ -3602,7 +3808,8 @@
     "translations": {
       "en": "Suriname",
       "ar": "سورينام"
-    }
+    },
+    "key": "SR"
   },
   {
     "name": "South Sudan",
@@ -3619,7 +3826,8 @@
     "translations": {
       "en": "South Sudan",
       "ar": "جنوب السودان"
-    }
+    },
+    "key": "SS"
   },
   {
     "name": "São Tomé and Príncipe",
@@ -3636,7 +3844,8 @@
     "translations": {
       "en": "São Tomé and Príncipe",
       "ar": "ساو تومي وبرينسيبي"
-    }
+    },
+    "key": "ST"
   },
   {
     "name": "El Salvador",
@@ -3653,7 +3862,8 @@
     "translations": {
       "en": "El Salvador",
       "ar": "السلفادور"
-    }
+    },
+    "key": "SV"
   },
   {
     "name": "Sint Maarten",
@@ -3671,7 +3881,8 @@
     "translations": {
       "en": "Sint Maarten",
       "ar": "سانت مارتن"
-    }
+    },
+    "key": "SX"
   },
   {
     "name": "Syria",
@@ -3688,7 +3899,8 @@
     "translations": {
       "en": "Syria",
       "ar": "سوريا"
-    }
+    },
+    "key": "SY"
   },
   {
     "name": "Swaziland",
@@ -3706,7 +3918,8 @@
     "translations": {
       "en": "Swaziland",
       "ar": "سوازيلاند"
-    }
+    },
+    "key": "SZ"
   },
   {
     "name": "Turks and Caicos Islands",
@@ -3723,7 +3936,8 @@
     "translations": {
       "en": "Turks and Caicos Islands",
       "ar": "جزر تركس وكايكوس"
-    }
+    },
+    "key": "TC"
   },
   {
     "name": "Chad",
@@ -3741,7 +3955,8 @@
     "translations": {
       "en": "Chad",
       "ar": "تشاد"
-    }
+    },
+    "key": "TD"
   },
   {
     "name": "French Southern Territories",
@@ -3758,7 +3973,8 @@
     "translations": {
       "en": "French Southern Territories",
       "ar": "المناطق الجنوبية لفرنسا"
-    }
+    },
+    "key": "TF"
   },
   {
     "name": "Togo",
@@ -3775,7 +3991,8 @@
     "translations": {
       "en": "Togo",
       "ar": "ليذهب"
-    }
+    },
+    "key": "TG"
   },
   {
     "name": "Thailand",
@@ -3792,7 +4009,8 @@
     "translations": {
       "en": "Thailand",
       "ar": "تايلاند"
-    }
+    },
+    "key": "TH"
   },
   {
     "name": "Tajikistan",
@@ -3810,7 +4028,8 @@
     "translations": {
       "en": "Tajikistan",
       "ar": "طاجيكستان"
-    }
+    },
+    "key": "TJ"
   },
   {
     "name": "Tokelau",
@@ -3827,7 +4046,8 @@
     "translations": {
       "en": "Tokelau",
       "ar": "توكيلاو"
-    }
+    },
+    "key": "TK"
   },
   {
     "name": "East Timor",
@@ -3844,7 +4064,8 @@
     "translations": {
       "en": "East Timor",
       "ar": "تيمور الشرقية"
-    }
+    },
+    "key": "TL"
   },
   {
     "name": "Turkmenistan",
@@ -3862,7 +4083,8 @@
     "translations": {
       "en": "Turkmenistan",
       "ar": "تركمانستان"
-    }
+    },
+    "key": "TM"
   },
   {
     "name": "Tunisia",
@@ -3879,7 +4101,8 @@
     "translations": {
       "en": "Tunisia",
       "ar": "تونس"
-    }
+    },
+    "key": "TN"
   },
   {
     "name": "Tonga",
@@ -3897,7 +4120,8 @@
     "translations": {
       "en": "Tonga",
       "ar": "تونغا"
-    }
+    },
+    "key": "TO"
   },
   {
     "name": "Turkey",
@@ -3914,7 +4138,8 @@
     "translations": {
       "en": "Turkey",
       "ar": "ديك رومي"
-    }
+    },
+    "key": "TR"
   },
   {
     "name": "Trinidad and Tobago",
@@ -3931,7 +4156,8 @@
     "translations": {
       "en": "Trinidad and Tobago",
       "ar": "ترينداد وتوباغو"
-    }
+    },
+    "key": "TT"
   },
   {
     "name": "Tuvalu",
@@ -3948,7 +4174,8 @@
     "translations": {
       "en": "Tuvalu",
       "ar": "توفالو"
-    }
+    },
+    "key": "TV"
   },
   {
     "name": "Taiwan",
@@ -3965,7 +4192,8 @@
     "translations": {
       "en": "Taiwan",
       "ar": "تايوان"
-    }
+    },
+    "key": "TW"
   },
   {
     "name": "Tanzania",
@@ -3983,7 +4211,8 @@
     "translations": {
       "en": "Tanzania",
       "ar": "تنزانيا"
-    }
+    },
+    "key": "TZ"
   },
   {
     "name": "Ukraine",
@@ -4000,7 +4229,8 @@
     "translations": {
       "en": "Ukraine",
       "ar": "أوكرانيا"
-    }
+    },
+    "key": "UA"
   },
   {
     "name": "Uganda",
@@ -4018,7 +4248,8 @@
     "translations": {
       "en": "Uganda",
       "ar": "أوغندا"
-    }
+    },
+    "key": "UG"
   },
   {
     "name": "U.S. Minor Outlying Islands",
@@ -4035,7 +4266,8 @@
     "translations": {
       "en": "U.S. Minor Outlying Islands",
       "ar": "جزر الولايات المتحدة الصغرى النائية"
-    }
+    },
+    "key": "UM"
   },
   {
     "name": "United States",
@@ -4052,7 +4284,8 @@
     "translations": {
       "en": "United States",
       "ar": "الولايات المتحدة الامريكانية"
-    }
+    },
+    "key": "US"
   },
   {
     "name": "Uruguay",
@@ -4069,7 +4302,8 @@
     "translations": {
       "en": "Uruguay",
       "ar": "أوروغواي"
-    }
+    },
+    "key": "UY"
   },
   {
     "name": "Uzbekistan",
@@ -4087,7 +4321,8 @@
     "translations": {
       "en": "Uzbekistan",
       "ar": "أوزبكستان"
-    }
+    },
+    "key": "UZ"
   },
   {
     "name": "Vatican City",
@@ -4105,7 +4340,8 @@
     "translations": {
       "en": "Vatican City",
       "ar": "مدينة الفاتيكان"
-    }
+    },
+    "key": "VA"
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -4122,7 +4358,8 @@
     "translations": {
       "en": "Saint Vincent and the Grenadines",
       "ar": "سانت فنسنت وجزر غرينادين"
-    }
+    },
+    "key": "VC"
   },
   {
     "name": "Venezuela",
@@ -4139,7 +4376,8 @@
     "translations": {
       "en": "Venezuela",
       "ar": "فنزويلا"
-    }
+    },
+    "key": "VE"
   },
   {
     "name": "British Virgin Islands",
@@ -4156,7 +4394,8 @@
     "translations": {
       "en": "British Virgin Islands",
       "ar": "جزر فيرجن البريطانية"
-    }
+    },
+    "key": "VG"
   },
   {
     "name": "U.S. Virgin Islands",
@@ -4173,7 +4412,8 @@
     "translations": {
       "en": "U.S. Virgin Islands",
       "ar": "جزر فيرجن الأمريكية"
-    }
+    },
+    "key": "VI"
   },
   {
     "name": "Vietnam",
@@ -4190,7 +4430,8 @@
     "translations": {
       "en": "Vietnam",
       "ar": "فيتنام"
-    }
+    },
+    "key": "VN"
   },
   {
     "name": "Vanuatu",
@@ -4209,7 +4450,8 @@
     "translations": {
       "en": "Vanuatu",
       "ar": "فانواتو"
-    }
+    },
+    "key": "VU"
   },
   {
     "name": "Wallis and Futuna",
@@ -4226,7 +4468,8 @@
     "translations": {
       "en": "Wallis and Futuna",
       "ar": "واليس وفوتونا"
-    }
+    },
+    "key": "WF"
   },
   {
     "name": "Samoa",
@@ -4244,7 +4487,8 @@
     "translations": {
       "en": "Samoa",
       "ar": "ساموا"
-    }
+    },
+    "key": "WS"
   },
   {
     "name": "Kosovo",
@@ -4262,7 +4506,8 @@
     "translations": {
       "en": "Kosovo",
       "ar": "كوسوفو"
-    }
+    },
+    "key": "XK"
   },
   {
     "name": "Yemen",
@@ -4279,7 +4524,8 @@
     "translations": {
       "en": "Yemen",
       "ar": "اليمن"
-    }
+    },
+    "key": "YE"
   },
   {
     "name": "Mayotte",
@@ -4296,7 +4542,8 @@
     "translations": {
       "en": "Mayotte",
       "ar": "مايوت"
-    }
+    },
+    "key": "YT"
   },
   {
     "name": "South Africa",
@@ -4322,7 +4569,8 @@
     "translations": {
       "en": "South Africa",
       "ar": "جنوب أفريقيا"
-    }
+    },
+    "key": "ZA"
   },
   {
     "name": "Zambia",
@@ -4339,7 +4587,8 @@
     "translations": {
       "en": "Zambia",
       "ar": "زامبيا"
-    }
+    },
+    "key": "ZM"
   },
   {
     "name": "Zimbabwe",
@@ -4358,6 +4607,7 @@
     "translations": {
       "en": "Zimbabwe",
       "ar": "زيمبابوي"
-    }
+    },
+    "key": "ZW"
   }
 ]

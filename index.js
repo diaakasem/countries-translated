@@ -10,6 +10,7 @@ function processCountry(country, key) {
         if (!country.translations) {
             country.translations = {};
         }
+        country.key = key;
         country.translations.en = country.name;
         country.translations.ar = res.text;
         return country

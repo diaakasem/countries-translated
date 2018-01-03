@@ -1,6 +1,6 @@
 {
   "name": "countries-translated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Countries Objects with names translated into Arabic and Other Languages",
   "main": "index.js",
   "scripts": {
