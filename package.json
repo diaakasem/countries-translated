@@ -1,11 +1,11 @@
 {
-  "name": "countries",
+  "name": "countries-translated",
   "version": "1.0.0",
   "description": "Countries Objects with names translated into Arabic and Other Languages",
   "main": "index.js",
   "scripts": {
-      "prepublish": "npm-auto-version",
-      "postpublish": "git push origin --tags",
+    "prepublish": "npm-auto-version",
+    "postpublish": "git push origin --tags",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
